@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-03-29 20:32:27 (UTC-4)
+2024-03-29 23:11:02 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d11024a5-cf55-4d61-98f3-db476a742b22?P1=1712363546&P2=404&P3=2&P4=Sib7%2fgyg26YzOF373w0tcipJ11K7maVTTLTUizzbtofFzxBI14sakylgU9B%2fgT2j17qyXFmqdOZRxjq4ZMr5iw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d11024a5-cf55-4d61-98f3-db476a742b22?P1=1712363546&P2=404&P3=2&P4=Sib7%2fgyg26YzOF373w0tcipJ11K7maVTTLTUizzbtofFzxBI14sakylgU9B%2fgT2j17qyXFmqdOZRxjq4ZMr5iw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：125.0.2492.0  
-**文件大小**：160.53 MB  
-**文件名**：MicrosoftEdge_ARM64_125.0.2492.0.exe  
-**校验值（Sha256）**：128fb355d0f0317ab56e751fb00c7dfaee6022836f711a81de399bfda5999d9f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bed995e6-de43-45ff-9eb6-c94774b71e41?P1=1712363547&P2=404&P3=2&P4=ATcJxlNzlmu%2fuDgpiRs%2bSbyB4V0ZA%2beF5VTogyCzmmdwqF3mbn9Wleo2Gacj1ivYUQOivGGgE%2flKA97JiFMn%2bA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bed995e6-de43-45ff-9eb6-c94774b71e41?P1=1712363547&P2=404&P3=2&P4=ATcJxlNzlmu%2fuDgpiRs%2bSbyB4V0ZA%2beF5VTogyCzmmdwqF3mbn9Wleo2Gacj1ivYUQOivGGgE%2flKA97JiFMn%2bA%3d%3d)  
+**最新版本**：125.0.2493.0  
+**文件大小**：160.27 MB  
+**文件名**：MicrosoftEdge_ARM64_125.0.2493.0.exe  
+**校验值（Sha256）**：4cb49808980fd8b19c92116b3c34e5b2f1c3900f60cdab45d8e8e38437057225  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d752089-b0d0-4c39-9495-d3fbbba6f955?P1=1712373062&P2=404&P3=2&P4=h28wNRYBb26REUtXk7UT9RiSpV%2bzCAOlhNaxX2PmODvlmHqV3KliDX0N%2fO%2f6jljD9dk4mVuFVuF5W4rKC8kVcw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d752089-b0d0-4c39-9495-d3fbbba6f955?P1=1712373062&P2=404&P3=2&P4=h28wNRYBb26REUtXk7UT9RiSpV%2bzCAOlhNaxX2PmODvlmHqV3KliDX0N%2fO%2f6jljD9dk4mVuFVuF5W4rKC8kVcw%3d%3d)  
 
