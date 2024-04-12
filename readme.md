@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-04-11 20:34:41 (UTC-4)
+2024-04-11 23:08:09 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c3092bf0-e9b6-45a6-a8c8-689d33d7d51e?P1=1713486880&P2=404&P3=2&P4=Dt2TncxwgTQ5XtK3%2bpyMkvdZntIKHKlEj0g1lGqZIqJt4jeVRyDc%2fs%2ftcfDIMGHQ4efJVBydZzXh%2bL3kt%2bgXJQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c3092bf0-e9b6-45a6-a8c8-689d33d7d51e?P1=1713486880&P2=404&P3=2&P4=Dt2TncxwgTQ5XtK3%2bpyMkvdZntIKHKlEj0g1lGqZIqJt4jeVRyDc%2fs%2ftcfDIMGHQ4efJVBydZzXh%2bL3kt%2bgXJQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：125.0.2515.0  
-**文件大小**：161.05 MB  
-**文件名**：MicrosoftEdge_ARM64_125.0.2515.0.exe  
-**校验值（Sha256）**：44ff847d4137b881de0e34e3a7318fb8482deca5bd25e7c7df739d9ab6d324cc  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/deabb60a-6e80-41d7-96f1-4c981f128c89?P1=1713474454&P2=404&P3=2&P4=b3CmxSsz8MZcnluGuseyE5cavIdO0TLkZm1mJeSKc0t2aK55nVUqusg2lwPbLNOohZ6W3TcflTa9oZ1l%2bD%2bMcQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/deabb60a-6e80-41d7-96f1-4c981f128c89?P1=1713474454&P2=404&P3=2&P4=b3CmxSsz8MZcnluGuseyE5cavIdO0TLkZm1mJeSKc0t2aK55nVUqusg2lwPbLNOohZ6W3TcflTa9oZ1l%2bD%2bMcQ%3d%3d)  
+**最新版本**：125.0.2518.0  
+**文件大小**：161.19 MB  
+**文件名**：MicrosoftEdge_ARM64_125.0.2518.0.exe  
+**校验值（Sha256）**：7e9eadb695a31023da34ae488562e091e20352ce4f7ac4d8ffd1fcb68c984f1e  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6298f2fa-14e0-499a-ae1d-4e5a433c930c?P1=1713496089&P2=404&P3=2&P4=brGRNLt%2fxr0CmIe7QJVnZSor6ema9fvYDDGOAzE0VYDnawrMGR5hOM5Rf%2fKfrGMfDTvXs9rQVe3CGHLOSUfqeQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6298f2fa-14e0-499a-ae1d-4e5a433c930c?P1=1713496089&P2=404&P3=2&P4=brGRNLt%2fxr0CmIe7QJVnZSor6ema9fvYDDGOAzE0VYDnawrMGR5hOM5Rf%2fKfrGMfDTvXs9rQVe3CGHLOSUfqeQ%3d%3d)  
 
