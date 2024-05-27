@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-05-27 11:09:34 (UTC-4)
+2024-05-27 14:10:29 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f91fdefe-801f-42b8-9280-9fcec75169bd?P1=1717427373&P2=404&P3=2&P4=NTC79bbTp6ZH97gzH4QAmSZmxieslZoZ3uwXlutIWn9bmGGFA0p3hsG%2ffF8XcbPL20J23y5ahDsN865moQgcTQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f91fdefe-801f-42b8-9280-9fcec75169bd?P1=1717427373&P2=404&P3=2&P4=NTC79bbTp6ZH97gzH4QAmSZmxieslZoZ3uwXlutIWn9bmGGFA0p3hsG%2ffF8XcbPL20J23y5ahDsN865moQgcTQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2610.0  
-**文件大小**：166.57 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2610.0.exe  
-**校验值（Sha256）**：ec545964c0bbed2ce2bb474cf6b0d9a539a4ac815d8eeff0e5075778c57ad3c5  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7477a263-1806-4a10-adb6-cb0734fd4474?P1=1717265353&P2=404&P3=2&P4=YThFuPD2tTktjbrnx0sP89CSI1bzqgxByo6EsQ2IkKB2%2fSNs%2b3WR7E%2fOHjksFJGpTjIzTpmHPtZ9ZUd7ZsAGEQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7477a263-1806-4a10-adb6-cb0734fd4474?P1=1717265353&P2=404&P3=2&P4=YThFuPD2tTktjbrnx0sP89CSI1bzqgxByo6EsQ2IkKB2%2fSNs%2b3WR7E%2fOHjksFJGpTjIzTpmHPtZ9ZUd7ZsAGEQ%3d%3d)  
+**最新版本**：128.0.2614.0  
+**文件大小**：166.5 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2614.0.exe  
+**校验值（Sha256）**：5931f4d5c86180eb0108691600cb8f38a148b3b3ab8d69c8a78683a2c824d515  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8c2954e-ccda-4c0b-9a12-5701acd17af5?P1=1717438229&P2=404&P3=2&P4=MdwA8EaF6ZMovMfj2i6ZayvcSKU8eyCbdIDtlt7jI%2ftTBW9YUZxC%2f3FPGATiGLtdAsHrL%2f7G6RKyqlnhApV99g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8c2954e-ccda-4c0b-9a12-5701acd17af5?P1=1717438229&P2=404&P3=2&P4=MdwA8EaF6ZMovMfj2i6ZayvcSKU8eyCbdIDtlt7jI%2ftTBW9YUZxC%2f3FPGATiGLtdAsHrL%2f7G6RKyqlnhApV99g%3d%3d)  
 
