@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-05-29 14:09:47 (UTC-4)
+2024-05-29 17:07:19 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ae3f203b-0319-4b6a-bcf0-c847cdd6d21e?P1=1717600120&P2=404&P3=2&P4=MHhuI3jzM24uPSdBchnAH8wMTbuDck9Bs3QEkcig8hRL7QGiQX8HR6eAqbbqUWAY3nTgkFzJjhbmZa2cMJ11WQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ae3f203b-0319-4b6a-bcf0-c847cdd6d21e?P1=1717600120&P2=404&P3=2&P4=MHhuI3jzM24uPSdBchnAH8wMTbuDck9Bs3QEkcig8hRL7QGiQX8HR6eAqbbqUWAY3nTgkFzJjhbmZa2cMJ11WQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2617.0  
-**文件大小**：166.4 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2617.0.exe  
-**校验值（Sha256）**：412745c70786b094b0cd9708c54cfcbac24fe7a6e1854a630b8d4a5374f8fdbb  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/79bb4653-c4c1-473c-8cd7-5ec861cd2eff?P1=1717547914&P2=404&P3=2&P4=f%2bWyYZn2KI%2f5ZrVbY1qX4IZ2vtn3%2f0RBYwB50PxD%2fgJ4h5%2fBhEUQo41E49XFBFQdZllX2WhAaK3NTq%2fjrBj1Mw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/79bb4653-c4c1-473c-8cd7-5ec861cd2eff?P1=1717547914&P2=404&P3=2&P4=f%2bWyYZn2KI%2f5ZrVbY1qX4IZ2vtn3%2f0RBYwB50PxD%2fgJ4h5%2fBhEUQo41E49XFBFQdZllX2WhAaK3NTq%2fjrBj1Mw%3d%3d)  
+**最新版本**：128.0.2618.0  
+**文件大小**：166.37 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2618.0.exe  
+**校验值（Sha256）**：459aa01d449b0619865508b358667a431baab946681e07970ac38070140d4a25  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2232adb0-6f9b-43f1-96dd-21194a1c9495?P1=1717621639&P2=404&P3=2&P4=OTB895Sp3sI0wd2ToBVtQRPkdpJSBYVKDgyfGLnXDxrPufNwVSWkMHlMsf3yhKfCy1VZnwAmpwofwcevDX9eTw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2232adb0-6f9b-43f1-96dd-21194a1c9495?P1=1717621639&P2=404&P3=2&P4=OTB895Sp3sI0wd2ToBVtQRPkdpJSBYVKDgyfGLnXDxrPufNwVSWkMHlMsf3yhKfCy1VZnwAmpwofwcevDX9eTw%3d%3d)  
 
