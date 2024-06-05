@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-06-05 14:09:58 (UTC-4)
+2024-06-05 17:08:15 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/49a399af-4fe1-41ad-9bc4-bcec99902f8f?P1=1718204884&P2=404&P3=2&P4=VEnHoU63L4oGnadMj0rpVX%2fBYFu6HU08sK8rjksJwwc9pi5WPNSO8ur6cbtgxk37GAS5pk%2bhI%2bOF1A8HUpAZWg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/49a399af-4fe1-41ad-9bc4-bcec99902f8f?P1=1718204884&P2=404&P3=2&P4=VEnHoU63L4oGnadMj0rpVX%2fBYFu6HU08sK8rjksJwwc9pi5WPNSO8ur6cbtgxk37GAS5pk%2bhI%2bOF1A8HUpAZWg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2631.0  
-**文件大小**：166.43 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2631.0.exe  
-**校验值（Sha256）**：d0f6ce764667ef7dce5379dc288ae55c9b08e545ab26757c85c7ec394884b760  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/274278c7-cc65-4760-8399-f986e707f8ab?P1=1718161870&P2=404&P3=2&P4=iwaG8BW4kuP6jVvoJRobRpLYVTWhifnoAGRxMaUqSPZ6oDAjdCq3ZbNYLpFR%2bJWTsgi50s5A03KOXju%2bJy5ozg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/274278c7-cc65-4760-8399-f986e707f8ab?P1=1718161870&P2=404&P3=2&P4=iwaG8BW4kuP6jVvoJRobRpLYVTWhifnoAGRxMaUqSPZ6oDAjdCq3ZbNYLpFR%2bJWTsgi50s5A03KOXju%2bJy5ozg%3d%3d)  
+**最新版本**：128.0.2632.0  
+**文件大小**：166.46 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2632.0.exe  
+**校验值（Sha256）**：1a2e7bf6348bf7aff5a26c9a9ffc2bc7b56904fa450dd9cb67bd17b5e62e55b9  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/46c1490d-a740-482b-86e4-ebbabe5c8e29?P1=1718226495&P2=404&P3=2&P4=hF12mfJ924PBSl1p0dhhIZzR%2f4Iuy92xf1tM5HkP4jg%2bkGmueV3mPefXkYaK0HOX8A819fCmkZVXsZPa6QxCFA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/46c1490d-a740-482b-86e4-ebbabe5c8e29?P1=1718226495&P2=404&P3=2&P4=hF12mfJ924PBSl1p0dhhIZzR%2f4Iuy92xf1tM5HkP4jg%2bkGmueV3mPefXkYaK0HOX8A819fCmkZVXsZPa6QxCFA%3d%3d)  
 
