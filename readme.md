@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-06-18 08:14:32 (UTC-4)
+2024-06-18 11:08:15 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9c61660c-e16f-4614-8a2c-468ac9fa9e8f?P1=1719079831&P2=404&P3=2&P4=NS1u1Eu3eOr91fLuYDDUkYAFw3GvMd3SG3aeuLM5HbFW7doGyNZomU5%2fuyxIBuBnt5bskHrsnCICqPeEblmH1g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9c61660c-e16f-4614-8a2c-468ac9fa9e8f?P1=1719079831&P2=404&P3=2&P4=NS1u1Eu3eOr91fLuYDDUkYAFw3GvMd3SG3aeuLM5HbFW7doGyNZomU5%2fuyxIBuBnt5bskHrsnCICqPeEblmH1g%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2653.0  
-**文件大小**：165.31 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2653.0.exe  
-**校验值（Sha256）**：b2f4f6e6ab1d7c026a62046c78f71bc55cc8f6a56ab9d7e68ac674fbe923d4ab  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f52e8b33-b6ff-49ff-a454-66ca1394a360?P1=1719079831&P2=404&P3=2&P4=UGdyNODBySQBLpUyHBzDPg5Y2BFOs9W5tgxEEE%2ffBriEw7hPgMNxAMWziTNh7h6ZEoedFqNT3CIgxc%2fDQexLEg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f52e8b33-b6ff-49ff-a454-66ca1394a360?P1=1719079831&P2=404&P3=2&P4=UGdyNODBySQBLpUyHBzDPg5Y2BFOs9W5tgxEEE%2ffBriEw7hPgMNxAMWziTNh7h6ZEoedFqNT3CIgxc%2fDQexLEg%3d%3d)  
+**最新版本**：128.0.2659.0  
+**文件大小**：165.48 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2659.0.exe  
+**校验值（Sha256）**：9e50ab54fb31c4662e5651783ba2188430a1a2862766a39425d437dd890ab939  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c91bf45-7a04-41e3-9a66-58e4b9bb5365?P1=1719328096&P2=404&P3=2&P4=EUfSHocfRoG56vosqiVCIBQxMFAVe9RCVLuf3fOAHHAi%2fH66HS1j%2bYl98KfiS9hWi47%2bNQYkmgacHt1ErzFLsQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c91bf45-7a04-41e3-9a66-58e4b9bb5365?P1=1719328096&P2=404&P3=2&P4=EUfSHocfRoG56vosqiVCIBQxMFAVe9RCVLuf3fOAHHAi%2fH66HS1j%2bYl98KfiS9hWi47%2bNQYkmgacHt1ErzFLsQ%3d%3d)  
 
