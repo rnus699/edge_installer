@@ -48,20 +48,20 @@
         "version": "126.0.2592.68"
     },
     "msedge-beta-win-x86": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_126.0.2592.68.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/729a9456-0bbc-4d43-977b-ea4be3ad88fa?P1=1719522469&P2=404&P3=2&P4=RHpJ%2fMdWcdSXfbiqVZdJ7cdzdv%2blwFb9C8IMCtQBaFf3ZeahXISRVnOsiNu38oN0TXWuffJO9RtwTKyjb%2ft8UQ%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 156453320,
-        "Sha1": "NIUI6pkJQqAspCAPeVYf+1djl9U=",
-        "Sha256": "eb448fb6f7380ea9e5028718aefb8c9ec1d52b7c75d8d3748ffda76be11c842c",
-        "version": "126.0.2592.68"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_127.0.2651.8.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b75dbd1-ccba-4fd9-9ff9-3f66d274a4b4?P1=1719608937&P2=404&P3=2&P4=XwJpoy1wJeF9AoLN1SWOQyw9N%2b6LIsgGnkWFvrCZI5kanHO74HX3fmvFYwyRdXJNeCaJSRKMXeQFBA3Dwpte9A%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 155843648,
+        "Sha1": "LvvJzbghY4zBOR+DvIC/yq4M1yw=",
+        "Sha256": "f89c0db38dd88cc9503fcee7341497ea698b887af63621b9f4af77f4dd878f3e",
+        "version": "127.0.2651.8"
     },
     "msedge-beta-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_126.0.2592.68.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ac6f611b-eeb7-4a42-a6d4-8cd714296a11?P1=1719522470&P2=404&P3=2&P4=N6Gn8GPSzoJErGJC6zzOhztSEr3peuDLXmjsPNI1fJ%2b8zMcg4wDF0ZQra9i%2bQhMwn2%2fnCLiZRq%2f2Ws9ptgypkw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 172957240,
-        "Sha1": "k1EA81iI+Z9dspRJViQrStTeQ0Y=",
-        "Sha256": "dd5f933f0f40c364559cb65bc1b1cac86de6ed9512d716e8bb5d73adf23d0744",
-        "version": "126.0.2592.68"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_127.0.2651.8.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ac1788c5-b699-40fe-bc72-7d304220b73a?P1=1719608938&P2=404&P3=2&P4=iKJadj57VLhf5qXjOsHlaXvXID%2fXOVVWGD9pm3w2lLSsdhCYyaEuHziCOyMUoWHdcmFEnXLv0vWLRwgFsEpRgw%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 172244424,
+        "Sha1": "gC/aA/6MlF2q0SPtJTmJ+nruqRA=",
+        "Sha256": "46af600bf76a4bd0042c321af8251d66f0b547098008d47f897ac948640117d1",
+        "version": "127.0.2651.8"
     },
     "msedge-beta-win-ARM64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_127.0.2651.8.exe",
@@ -72,28 +72,28 @@
         "version": "127.0.2651.8"
     },
     "msedge-dev-win-x86": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_127.0.2651.2.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dda7e3cb-2dc6-404f-80e7-b78c1d8ca4d5?P1=1719522472&P2=404&P3=2&P4=V4D%2bxVp2AaLIJk4c9gmnbkNlU%2fKxFHLFlMJUthqrEllHAoB18vYsy8d%2fYu8qOlw9VVeFsHjj0%2bfJJ5obj%2f%2bGsw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 155813432,
-        "Sha1": "Dm1Qzp67qYDQEImzWahFxxPhvzc=",
-        "Sha256": "3a8ffc3c17488596cc94f352c8f1696c8a1bfd628fe38e0294a37f650e68cb97",
-        "version": "127.0.2651.2"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_127.0.2651.8.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b75dbd1-ccba-4fd9-9ff9-3f66d274a4b4?P1=1719608938&P2=404&P3=2&P4=k80q2ywHSWjjL1xg69ISuuRTF6hxBADy2SeDjnASGTE3%2bpKZYMMlyoNoPwt8SH3vvD5URhBrU5AMjnq2L7fZqg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 155843648,
+        "Sha1": "LvvJzbghY4zBOR+DvIC/yq4M1yw=",
+        "Sha256": "f89c0db38dd88cc9503fcee7341497ea698b887af63621b9f4af77f4dd878f3e",
+        "version": "127.0.2651.8"
     },
     "msedge-dev-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_127.0.2651.2.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0bdcf0d9-8d6f-43b7-a0cf-9a10a10b6a3c?P1=1719522473&P2=404&P3=2&P4=ROvTRF7DZxrQSYLQVGx7GUHBDD0ja587XgPwYsZtg2g%2bHl7H8LhARebXW7EdEWwqD9oISu53VZ%2f%2fImOAL%2fimZg%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 172280776,
-        "Sha1": "AqmDfygl8m5PBdM7Qd400aD9FsU=",
-        "Sha256": "7a78454eec2181843732ce84e5ce6a1c793826a107b661a71f5245707594d721",
-        "version": "127.0.2651.2"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_127.0.2651.8.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ac1788c5-b699-40fe-bc72-7d304220b73a?P1=1719608939&P2=404&P3=2&P4=IpSIFG0ouRqpFcIvbMF5IkCV%2bGwb1SYNf2DAtYf%2bg64gm8o%2fExzQ8BuOk6wiDPZjWTJQmjQjgUAQzV2E%2flvkJg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 172244424,
+        "Sha1": "gC/aA/6MlF2q0SPtJTmJ+nruqRA=",
+        "Sha256": "46af600bf76a4bd0042c321af8251d66f0b547098008d47f897ac948640117d1",
+        "version": "127.0.2651.8"
     },
     "msedge-dev-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_127.0.2651.2.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/68734fe4-4dc0-42ea-a185-df8e326d6477?P1=1719522474&P2=404&P3=2&P4=Kznyo5pTUeal%2fPXM0%2fka6Su90ulcQpmV49bxOPFUJPm%2bd6Le2%2bCRd1uNCNQN%2bkkE1ReD6nnBcqHeL%2fvC9p0S%2fg%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 173155784,
-        "Sha1": "B6mk5SqVPAUbIQT5dlzv9HZGvXw=",
-        "Sha256": "b52a32ee51c058889080057d96d494ab8ef163774c1bacd2b57cc3813f949790",
-        "version": "127.0.2651.2"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_127.0.2651.8.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/28f352ec-591b-4e97-a461-4d39400436aa?P1=1719608939&P2=404&P3=2&P4=JatIgBEUV6oPUdhdRDFc7l1BKEcGFoYyQQFs9lXnXHC5JuhyplYrN%2fGFHMdA%2frj87pYtHLvEvQjxhoRLF%2bnpuw%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 173142592,
+        "Sha1": "QUuH4HooVWnv3cZs4BzVN85F57Q=",
+        "Sha256": "fd9e85fc8cd28ebb3202d0f4a03c167c4654f07d0255c8f539c7d4e3db41652d",
+        "version": "127.0.2651.8"
     },
     "msedge-canary-win-x86": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_128.0.2665.0.exe",
