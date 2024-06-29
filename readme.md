@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-06-28 17:07:33 (UTC-4)
+2024-06-28 20:36:48 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/da587218-3e44-408c-8157-addaa07eb99c?P1=1720213652&P2=404&P3=2&P4=ENA4HNKnic%2fOMTsHUu%2fbnkj0FydFzTZ7MRULPKwHXuMX9odqzPeeMxOlTUM5M9pjUEjKGrBMh0phdN6mhvu05g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/da587218-3e44-408c-8157-addaa07eb99c?P1=1720213652&P2=404&P3=2&P4=ENA4HNKnic%2fOMTsHUu%2fbnkj0FydFzTZ7MRULPKwHXuMX9odqzPeeMxOlTUM5M9pjUEjKGrBMh0phdN6mhvu05g%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2679.0  
-**文件大小**：165.41 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2679.0.exe  
-**校验值（Sha256）**：ba8fe102347964bc2c39a502349b42e6650aceda3f99a79c66d36b2fc7ad83f0  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c2e6238c-c1b5-4316-a212-3ee6ec3ae4e6?P1=1720213654&P2=404&P3=2&P4=ni%2fbrlCKLniS5mJUJMaZlCbRilDowSFNwsGDQEvk%2fQMqqpCW9b%2buyD%2fiWXzeFgFuumnYhcCD%2bfD61aTKS5HUKg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c2e6238c-c1b5-4316-a212-3ee6ec3ae4e6?P1=1720213654&P2=404&P3=2&P4=ni%2fbrlCKLniS5mJUJMaZlCbRilDowSFNwsGDQEvk%2fQMqqpCW9b%2buyD%2fiWXzeFgFuumnYhcCD%2bfD61aTKS5HUKg%3d%3d)  
+**最新版本**：128.0.2680.0  
+**文件大小**：165.3 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2680.0.exe  
+**校验值（Sha256）**：badbc53a4e267f5073aeb6ec7a399000bed61380aa88630b2c48c070c9f5791e  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c16fbd0-4870-4fbf-8f30-95c06456f6b6?P1=1720226208&P2=404&P3=2&P4=Rfg8y38vHv5TPaKHsvvChWPas3XNHEQXnz9gqI9c3ARrvHtXqL8afShUD0sMVzmhatvFBdj7xD9xh7s6w03H7w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c16fbd0-4870-4fbf-8f30-95c06456f6b6?P1=1720226208&P2=404&P3=2&P4=Rfg8y38vHv5TPaKHsvvChWPas3XNHEQXnz9gqI9c3ARrvHtXqL8afShUD0sMVzmhatvFBdj7xD9xh7s6w03H7w%3d%3d)  
 
