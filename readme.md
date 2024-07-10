@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-07-10 14:11:45 (UTC-4)
+2024-07-10 17:07:35 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -82,11 +82,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6ef5d994-4e43-4115-b92c-80c293f8323f?P1=1720559261&P2=404&P3=2&P4=W73OqJehkJfKUK53DEk%2b%2b4g7qdZe%2fT9rhPKJKL7VAqdMDF%2bbn%2bWxrwFuYqDUM%2f9TycfToIxN5BAG%2bjeAr6KSZQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6ef5d994-4e43-4115-b92c-80c293f8323f?P1=1720559261&P2=404&P3=2&P4=W73OqJehkJfKUK53DEk%2b%2b4g7qdZe%2fT9rhPKJKL7VAqdMDF%2bbn%2bWxrwFuYqDUM%2f9TycfToIxN5BAG%2bjeAr6KSZQ%3d%3d)  
 
 ## beta ARM64
-**最新版本**：127.0.2651.31  
-**文件大小**：165.2 MB  
-**文件名**：MicrosoftEdge_ARM64_127.0.2651.31.exe  
-**校验值（Sha256）**：a7d78e421020fa6c105e360ce79b0bc5d0d0ec3efd8165e598cf4481681195bc  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/97142393-c870-4300-a4a7-fcadaa61351c?P1=1720559261&P2=404&P3=2&P4=gTMH8fRH9fMde6nZ64ePnDUmB557Jm%2fkdP6u%2bBP08hUTBiNCF32Q1yRJx%2fBj75%2bsPG0WIG0%2f6UOJHQ4XAYIw5g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/97142393-c870-4300-a4a7-fcadaa61351c?P1=1720559261&P2=404&P3=2&P4=gTMH8fRH9fMde6nZ64ePnDUmB557Jm%2fkdP6u%2bBP08hUTBiNCF32Q1yRJx%2fBj75%2bsPG0WIG0%2f6UOJHQ4XAYIw5g%3d%3d)  
+**最新版本**：127.0.2651.45  
+**文件大小**：165.37 MB  
+**文件名**：MicrosoftEdge_ARM64_127.0.2651.45.exe  
+**校验值（Sha256）**：6c43909e25608ca8dc4f350eeae3acd3c54e6788d8e2ab8b8b8fa0c61e96b60a  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f7d1bf4-7959-4621-940b-ba4674596d07?P1=1721250449&P2=404&P3=2&P4=ndzyxlEnq2qrit9LUNoZ7TLBdPFC7fdiChDvXWzwDVzWYdI8VeilSWpJncA6UH0wBQTJhulZRUsnaGO%2bOhH8nA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f7d1bf4-7959-4621-940b-ba4674596d07?P1=1721250449&P2=404&P3=2&P4=ndzyxlEnq2qrit9LUNoZ7TLBdPFC7fdiChDvXWzwDVzWYdI8VeilSWpJncA6UH0wBQTJhulZRUsnaGO%2bOhH8nA%3d%3d)  
 
 ## dev x86
 **最新版本**：128.0.2690.1  
