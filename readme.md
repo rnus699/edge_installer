@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-09-09 08:17:20 (UTC-4)
+2024-09-09 11:09:18 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7d6f32f8-dfd2-4358-8ee7-d85f48c33c8a?P1=1726240127&P2=404&P3=2&P4=K%2bEhE66VpXs5laGleHW%2fHEci8r7Zg8GetFYyZtpD8AOCWVVX9Zj%2b1z97%2bhjdZnwlLcJ5v6Akl8eWJ2t2vRxyqg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7d6f32f8-dfd2-4358-8ee7-d85f48c33c8a?P1=1726240127&P2=404&P3=2&P4=K%2bEhE66VpXs5laGleHW%2fHEci8r7Zg8GetFYyZtpD8AOCWVVX9Zj%2b1z97%2bhjdZnwlLcJ5v6Akl8eWJ2t2vRxyqg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：130.0.2822.0  
+**最新版本**：130.0.2827.0  
 **文件大小**：166.92 MB  
-**文件名**：MicrosoftEdge_ARM64_130.0.2822.0.exe  
-**校验值（Sha256）**：ae91d24129fc87fde41aa1886b84bec7888c0f7cba384cb0666f7db98ecab889  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1618dacf-2852-4477-bc12-0bce4b231759?P1=1726274443&P2=404&P3=2&P4=MzGWMTsj9c677G%2f28JCEpDejRRT%2bPzvyE2jQWzNv3B9iRsNZZ0wJbVZhuOOg0pH5AzRKhpG9M5X3bD9I6Y26Gg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1618dacf-2852-4477-bc12-0bce4b231759?P1=1726274443&P2=404&P3=2&P4=MzGWMTsj9c677G%2f28JCEpDejRRT%2bPzvyE2jQWzNv3B9iRsNZZ0wJbVZhuOOg0pH5AzRKhpG9M5X3bD9I6Y26Gg%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_130.0.2827.0.exe  
+**校验值（Sha256）**：29ddc230cd6f4df1dbe77630b698f9a96b043fbe147075a0f4769f994cfb99cd  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/01f4bc65-4c34-42d4-a43e-99775f232f69?P1=1726499359&P2=404&P3=2&P4=GKAn8WUgQAWOzptTNG9LwS1ZcWCJsSVwp%2bBL8AiaJalr7xBOAk5lvn%2bSc84JUJrU01pILrXT4ZDw2Qu6ITYtXA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/01f4bc65-4c34-42d4-a43e-99775f232f69?P1=1726499359&P2=404&P3=2&P4=GKAn8WUgQAWOzptTNG9LwS1ZcWCJsSVwp%2bBL8AiaJalr7xBOAk5lvn%2bSc84JUJrU01pILrXT4ZDw2Qu6ITYtXA%3d%3d)  
 
