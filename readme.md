@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-10-22 11:09:40 (UTC-4)
+2024-10-22 14:12:38 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -82,11 +82,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d5241d9-7389-4e74-9a81-2fda43039830?P1=1730063301&P2=404&P3=2&P4=BhAbCzrWeQPDTP9C2T4Z%2fSax3sA0hejtPDp3s9ePkByIp%2bGE%2bD%2fESZgYOmSqTmKZBq8ZZ6WODQZUPLvgb3ooFQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d5241d9-7389-4e74-9a81-2fda43039830?P1=1730063301&P2=404&P3=2&P4=BhAbCzrWeQPDTP9C2T4Z%2fSax3sA0hejtPDp3s9ePkByIp%2bGE%2bD%2fESZgYOmSqTmKZBq8ZZ6WODQZUPLvgb3ooFQ%3d%3d)  
 
 ## beta ARM64
-**最新版本**：130.0.2849.46  
-**文件大小**：166.68 MB  
-**文件名**：MicrosoftEdge_ARM64_130.0.2849.46.exe  
-**校验值（Sha256）**：792e53a3b2f4ff5d54dedf008a05a146b7a5da1bd6fd23ab696a0ab51a29cb8f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/82eaa958-ba14-4bdb-9bf4-5f6fae61b9a2?P1=1730063302&P2=404&P3=2&P4=DHb9XrZAemAqLMoWQMlqRJtLb7qYggr4MCw34IAAE0zokDo4kZ5%2fALFJ6Rv173fk7lNJh6NAD86BpZXfYMmbvw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/82eaa958-ba14-4bdb-9bf4-5f6fae61b9a2?P1=1730063302&P2=404&P3=2&P4=DHb9XrZAemAqLMoWQMlqRJtLb7qYggr4MCw34IAAE0zokDo4kZ5%2fALFJ6Rv173fk7lNJh6NAD86BpZXfYMmbvw%3d%3d)  
+**最新版本**：130.0.2849.52  
+**文件大小**：166.57 MB  
+**文件名**：MicrosoftEdge_ARM64_130.0.2849.52.exe  
+**校验值（Sha256）**：81ac9099f0398b3293e905728314f0c5ae50d08b6dfe3264137dc8ee588a6ba0  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5318843f-e41e-43a7-8658-c6604c0f35d5?P1=1730225554&P2=404&P3=2&P4=QKJHZBvRrjsKJSJSY4h9faqb7jhOQmLpwdxgfaPIYEhJzlqfHXV6EN7MdBUhfez5MNFUE11QNIkQ2wmCN%2fYamg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5318843f-e41e-43a7-8658-c6604c0f35d5?P1=1730225554&P2=404&P3=2&P4=QKJHZBvRrjsKJSJSY4h9faqb7jhOQmLpwdxgfaPIYEhJzlqfHXV6EN7MdBUhfez5MNFUE11QNIkQ2wmCN%2fYamg%3d%3d)  
 
 ## dev x86
 **最新版本**：131.0.2889.0  
