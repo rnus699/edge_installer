@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-10-31 08:17:23 (UTC-4)
+2024-10-31 11:09:46 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3514f4e8-0ebb-4c54-ae62-d1e290c6d815?P1=1730905804&P2=404&P3=2&P4=jF%2fGoj8%2fs8AJhEz2JvMoFU8enQmeUvuf%2fyZ7SLJMqCglTbChu8tbMj87ck3zMhiY8PeRu9JRMnDtPPKN2TY6xw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3514f4e8-0ebb-4c54-ae62-d1e290c6d815?P1=1730905804&P2=404&P3=2&P4=jF%2fGoj8%2fs8AJhEz2JvMoFU8enQmeUvuf%2fyZ7SLJMqCglTbChu8tbMj87ck3zMhiY8PeRu9JRMnDtPPKN2TY6xw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2928.0  
-**文件大小**：167.59 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2928.0.exe  
-**校验值（Sha256）**：56156a31f58a837be6a9e9568a3ad067915136caa6fc5d1e33c58325ab528497  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/63db792e-dc77-4f66-8383-fa58b21b9b8b?P1=1730940314&P2=404&P3=2&P4=YayvydCHFERrK3P1805JsrC3OF4K%2bi4N2ndQ3lUpwUxtq0mLtgJ5eo7Lls%2b0g8xnt%2bUTJi5LGAKwnKwZekAIkQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/63db792e-dc77-4f66-8383-fa58b21b9b8b?P1=1730940314&P2=404&P3=2&P4=YayvydCHFERrK3P1805JsrC3OF4K%2bi4N2ndQ3lUpwUxtq0mLtgJ5eo7Lls%2b0g8xnt%2bUTJi5LGAKwnKwZekAIkQ%3d%3d)  
+**最新版本**：132.0.2929.0  
+**文件大小**：167.74 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2929.0.exe  
+**校验值（Sha256）**：a647db5285a1539ae468ee3684e155f93631ec31c575665485e61c094097ac12  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b442f2f-afde-496c-93bd-4b4c56a89beb?P1=1730992187&P2=404&P3=2&P4=acXj1RwKLQUmo%2fE9r9f%2b8WRLnla1Kiv%2fNnM2CFIdUAsWNIohc5Qbkd0lVo5h6bb4QzkowRZi6ywZYoZheMRa4w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b442f2f-afde-496c-93bd-4b4c56a89beb?P1=1730992187&P2=404&P3=2&P4=acXj1RwKLQUmo%2fE9r9f%2b8WRLnla1Kiv%2fNnM2CFIdUAsWNIohc5Qbkd0lVo5h6bb4QzkowRZi6ywZYoZheMRa4w%3d%3d)  
 
