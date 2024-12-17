@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-12-17 11:10:36 (UTC-4)
+2024-12-17 14:14:09 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b3a35220-30b4-40ad-a973-498ca3e824d3?P1=1735053036&P2=404&P3=2&P4=Hj2JugSH7DuqbAiGndpfGgtpQvon9GP6rex%2bv8uyWjcIgIn%2b8bh2hUZWPQ8vOWC2br07ktBhLZ81HlIKCK843A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b3a35220-30b4-40ad-a973-498ca3e824d3?P1=1735053036&P2=404&P3=2&P4=Hj2JugSH7DuqbAiGndpfGgtpQvon9GP6rex%2bv8uyWjcIgIn%2b8bh2hUZWPQ8vOWC2br07ktBhLZ81HlIKCK843A%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3021.0  
-**文件大小**：170.25 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3021.0.exe  
-**校验值（Sha256）**：5a0ed685ae0882135a544a3a07cea12098c0d31e246d79cd2efb147357d8360a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/14411a70-df01-405c-95a6-bc2f53a748aa?P1=1735001415&P2=404&P3=2&P4=g1aZXXxWHh4XFFPS7hjL28UrHnYKXNnrxmPDpiQgzRbphHZWJIDX8L56COvgeWgJR%2fb2TfBb2r523yvf0dmFPw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/14411a70-df01-405c-95a6-bc2f53a748aa?P1=1735001415&P2=404&P3=2&P4=g1aZXXxWHh4XFFPS7hjL28UrHnYKXNnrxmPDpiQgzRbphHZWJIDX8L56COvgeWgJR%2fb2TfBb2r523yvf0dmFPw%3d%3d)  
+**最新版本**：133.0.3022.0  
+**文件大小**：170.27 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3022.0.exe  
+**校验值（Sha256）**：b273e98b1cb0c343d9db9ee9b83a9f7563e50b7a8529de9efead457e8f256512  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e46d543-fba1-4365-b336-22a980dafc32?P1=1735064049&P2=404&P3=2&P4=Rh6FHh%2frifiJ8uI4R7tb2VxnR%2f8XzgqY01SD%2feoUaOoEoROfbZC2nivXLubGqrpZJLLg5FXT2oPd8MOceVf2BQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e46d543-fba1-4365-b336-22a980dafc32?P1=1735064049&P2=404&P3=2&P4=Rh6FHh%2frifiJ8uI4R7tb2VxnR%2f8XzgqY01SD%2feoUaOoEoROfbZC2nivXLubGqrpZJLLg5FXT2oPd8MOceVf2BQ%3d%3d)  
 
