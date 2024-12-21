@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2024-12-20 20:44:10 (UTC-4)
+2024-12-20 23:12:18 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4746b7bd-2d59-428d-a152-344579ab0ade?P1=1735346650&P2=404&P3=2&P4=FRYaCm5qBTOZhpo7OwdgJJP2fmWx8G02NxwAn0H4XvBQEozrjhbdYj2mY8YfHWZ8FRfj6nEMKagqgwjeJfJXBQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4746b7bd-2d59-428d-a152-344579ab0ade?P1=1735346650&P2=404&P3=2&P4=FRYaCm5qBTOZhpo7OwdgJJP2fmWx8G02NxwAn0H4XvBQEozrjhbdYj2mY8YfHWZ8FRfj6nEMKagqgwjeJfJXBQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3028.0  
-**文件大小**：170.6 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3028.0.exe  
-**校验值（Sha256）**：6d2771c082d8581fb968f49bf9cda88f07688c8ec50108509aefacbc22111cf3  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c5bc071-70c6-470d-b2ea-82e193a9699c?P1=1735333672&P2=404&P3=2&P4=TkmQXKXiT%2bx6O4VGq0YMvUCypqYWfoB7aU%2fHhvrN8CZNzJVOmHD1jzD5xB8h06nGve2eZD5mRAG6m14%2fh4zGGg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c5bc071-70c6-470d-b2ea-82e193a9699c?P1=1735333672&P2=404&P3=2&P4=TkmQXKXiT%2bx6O4VGq0YMvUCypqYWfoB7aU%2fHhvrN8CZNzJVOmHD1jzD5xB8h06nGve2eZD5mRAG6m14%2fh4zGGg%3d%3d)  
+**最新版本**：133.0.3029.0  
+**文件大小**：170.49 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3029.0.exe  
+**校验值（Sha256）**：677e939766f379753c1a41ae83703022cbdbc98f6cdd391a1857dabf70287a81  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b4aa0d41-343a-47bd-920b-5230e28f3c80?P1=1735355538&P2=404&P3=2&P4=EfL%2btkZ%2bMPvXCIVJe79vVf3UlQkxNYOghTrcCc9KbHdxeHeW1PDoN97x3UQMoAJox1KZqyQMg3ooDIxLNSQKBQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b4aa0d41-343a-47bd-920b-5230e28f3c80?P1=1735355538&P2=404&P3=2&P4=EfL%2btkZ%2bMPvXCIVJe79vVf3UlQkxNYOghTrcCc9KbHdxeHeW1PDoN97x3UQMoAJox1KZqyQMg3ooDIxLNSQKBQ%3d%3d)  
 
