@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-01-03 23:12:41 (UTC-4)
+2025-01-04 02:12:09 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/abf7cfd1-7fe2-450c-b455-65de5fd77847?P1=1736565162&P2=404&P3=2&P4=jRYXrmSXVf3Ft2T9ITf46b0UQmE4rXGe5KBR%2by0DRLxHtKCFJI%2bmPpLRa%2bIHGIdTGsAVR7Xc7AqsazBJry0Gvg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/abf7cfd1-7fe2-450c-b455-65de5fd77847?P1=1736565162&P2=404&P3=2&P4=jRYXrmSXVf3Ft2T9ITf46b0UQmE4rXGe5KBR%2by0DRLxHtKCFJI%2bmPpLRa%2bIHGIdTGsAVR7Xc7AqsazBJry0Gvg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3054.0  
-**文件大小**：170.48 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3054.0.exe  
-**校验值（Sha256）**：82d40659e3ca0f377b165c90870cc2c02af396a702f86f3b07075fba5b7ca11f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dedb385c-a182-4a1f-8320-d638422f6dfa?P1=1736521787&P2=404&P3=2&P4=SHyToVVj%2fBiOMF2k7m9Ftf3TU5AcD9h%2benv9CSvYlhgcldoHWyY1M3A0WX3K2faXoEbz1aOIjVYqQs1werlalw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dedb385c-a182-4a1f-8320-d638422f6dfa?P1=1736521787&P2=404&P3=2&P4=SHyToVVj%2fBiOMF2k7m9Ftf3TU5AcD9h%2benv9CSvYlhgcldoHWyY1M3A0WX3K2faXoEbz1aOIjVYqQs1werlalw%3d%3d)  
+**最新版本**：133.0.3055.0  
+**文件大小**：170.45 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3055.0.exe  
+**校验值（Sha256）**：f94eaac52a3c55b79fad80ed678b9d8fb61bb66cae01b187e61d2aaad2d4c83f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4e4b6042-33a5-4cf0-980f-9b6feb621627?P1=1736575930&P2=404&P3=2&P4=FwQDrlBW4sjg50kzRsIqth4OJfZEyyhamxr8Mu%2fha25ad8eMcMEqeZ2auu3bJynbU%2bih%2b0bw4BT8ms3X54aDvQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4e4b6042-33a5-4cf0-980f-9b6feb621627?P1=1736575930&P2=404&P3=2&P4=FwQDrlBW4sjg50kzRsIqth4OJfZEyyhamxr8Mu%2fha25ad8eMcMEqeZ2auu3bJynbU%2bih%2b0bw4BT8ms3X54aDvQ%3d%3d)  
 
