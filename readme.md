@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-01-08 17:08:32 (UTC-4)
+2025-01-08 20:45:16 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -89,11 +89,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dcd1a9a0-c4ae-4bf9-9033-d8938fa340a0?P1=1736802529&P2=404&P3=2&P4=AIbN7rL0DBcE08gRKlLbrBX5sNo3j%2bLB0PO9KvkaUpQH7wxxQZ7VqmWt1W02xGNVjTvnI6BnQStlQUmTtkEQ0w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dcd1a9a0-c4ae-4bf9-9033-d8938fa340a0?P1=1736802529&P2=404&P3=2&P4=AIbN7rL0DBcE08gRKlLbrBX5sNo3j%2bLB0PO9KvkaUpQH7wxxQZ7VqmWt1W02xGNVjTvnI6BnQStlQUmTtkEQ0w%3d%3d)  
 
 ## dev x86
-**最新版本**：133.0.3014.0  
-**文件大小**：151.45 MB  
-**文件名**：MicrosoftEdge_X86_133.0.3014.0.exe  
-**校验值（Sha256）**：cb0911c55221cf92346df1bdfe0ce9c3b98c414aada95b1ab0963d00eec7a70f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/05c2a935-4bfa-4bf9-825b-209364a60d44?P1=1736456914&P2=404&P3=2&P4=EqkaEM43zKNl5tDO%2bory0wMJHFpRehYIR0WKaPFBJjCs%2bz6DSyxj1ZHVhvHJ8%2b5tiqDq9vILy3Rdz%2bxDW1%2fLGg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/05c2a935-4bfa-4bf9-825b-209364a60d44?P1=1736456914&P2=404&P3=2&P4=EqkaEM43zKNl5tDO%2bory0wMJHFpRehYIR0WKaPFBJjCs%2bz6DSyxj1ZHVhvHJ8%2b5tiqDq9vILy3Rdz%2bxDW1%2fLGg%3d%3d)  
+**最新版本**：133.0.3054.1  
+**文件大小**：152.05 MB  
+**文件名**：MicrosoftEdge_X86_133.0.3054.1.exe  
+**校验值（Sha256）**：b97288a84cfbdd59fde65a55796c546029a86042264fc7d48c08510b36c8e8dc  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c73d2a33-254e-4786-acf5-56419fb31ea2?P1=1736988313&P2=404&P3=2&P4=b67e%2fhlsj5f2X%2f6yE6V6HchC%2bPYlVjBsSWWohjHRBqjRdixX%2bqPP96QezWgDjeyn3BMbHw4SYCLB2LITgbeklw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c73d2a33-254e-4786-acf5-56419fb31ea2?P1=1736988313&P2=404&P3=2&P4=b67e%2fhlsj5f2X%2f6yE6V6HchC%2bPYlVjBsSWWohjHRBqjRdixX%2bqPP96QezWgDjeyn3BMbHw4SYCLB2LITgbeklw%3d%3d)  
 
 ## dev x64
 **最新版本**：133.0.3054.1  
