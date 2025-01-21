@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-01-20 23:11:08 (UTC-4)
+2025-01-21 02:13:26 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/79b1f5dd-3efc-4305-bcb4-44cef4e4ef8d?P1=1738033868&P2=404&P3=2&P4=c6REgd1alUL535hdWNCLvL99KD1fwwF7ta9JmnqjDN15CTMcKEQokR54EZu4R56CtJlOv%2fuuIXcBWUV%2bsX4Q%2bg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/79b1f5dd-3efc-4305-bcb4-44cef4e4ef8d?P1=1738033868&P2=404&P3=2&P4=c6REgd1alUL535hdWNCLvL99KD1fwwF7ta9JmnqjDN15CTMcKEQokR54EZu4R56CtJlOv%2fuuIXcBWUV%2bsX4Q%2bg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3087.0  
-**文件大小**：170.4 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3087.0.exe  
-**校验值（Sha256）**：0aacfdea0a6781ce2f19082d13ee1b0eab17f446ae5e057a46a037b881f95c61  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/05296278-bb8f-4734-96ec-696711eea3ab?P1=1738012098&P2=404&P3=2&P4=VAMyZHNc2%2fclJgapf%2f0bsKM3HNtx4YeQdAQR0lnBD3eAoe%2bhzarPAG8Vw5ZtUk68w6YbN6qPxW4B7%2f1JnJrxjg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/05296278-bb8f-4734-96ec-696711eea3ab?P1=1738012098&P2=404&P3=2&P4=VAMyZHNc2%2fclJgapf%2f0bsKM3HNtx4YeQdAQR0lnBD3eAoe%2bhzarPAG8Vw5ZtUk68w6YbN6qPxW4B7%2f1JnJrxjg%3d%3d)  
+**最新版本**：134.0.3088.0  
+**文件大小**：170.48 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3088.0.exe  
+**校验值（Sha256）**：65304c7d737bf9fb99702b631a2a7133c10c188b3e6c4dfbcc9d997c91820735  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bbdcf10b-7e06-4344-9550-a19f6e2c2da5?P1=1738044806&P2=404&P3=2&P4=A6aG0czNN11tWc5RhiPzLNzLTUZFCGxzPsB5gfyrR%2fej2LlrHAzB%2bRaRZEnn6SIXTessSXztIlHlv0%2fABKkDKg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bbdcf10b-7e06-4344-9550-a19f6e2c2da5?P1=1738044806&P2=404&P3=2&P4=A6aG0czNN11tWc5RhiPzLNzLTUZFCGxzPsB5gfyrR%2fej2LlrHAzB%2bRaRZEnn6SIXTessSXztIlHlv0%2fABKkDKg%3d%3d)  
 
