@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-01-30 20:43:59 (UTC-4)
+2025-01-30 23:10:54 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/00d156c0-bb75-4b2e-88c6-3587fa5c6c32?P1=1738889039&P2=404&P3=2&P4=ZpEiRsu0jFRJ4RXlY6mZlF0JxGYvcLbnnb07byGyL7xm82YQJgB%2fC14V0MoJQukE3bWDO75KhUCf8ukdSJ6Lfw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/00d156c0-bb75-4b2e-88c6-3587fa5c6c32?P1=1738889039&P2=404&P3=2&P4=ZpEiRsu0jFRJ4RXlY6mZlF0JxGYvcLbnnb07byGyL7xm82YQJgB%2fC14V0MoJQukE3bWDO75KhUCf8ukdSJ6Lfw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3107.0  
-**文件大小**：170.97 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3107.0.exe  
-**校验值（Sha256）**：bc5f56ad3d5586fbf706969654cdd07ad97e194e36b92cafae521b9ce161e9b6  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/899a281d-9b2d-4f89-ac2d-c30c8f1b0f3d?P1=1738854574&P2=404&P3=2&P4=FmN1QorAVbjmygnQam%2b7AImxCkIIjsg818b3Kkek01Vsrlvw8KRDlOHtSB60D4PdSZSFt6%2bWW2RtYFDTHTe7zw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/899a281d-9b2d-4f89-ac2d-c30c8f1b0f3d?P1=1738854574&P2=404&P3=2&P4=FmN1QorAVbjmygnQam%2b7AImxCkIIjsg818b3Kkek01Vsrlvw8KRDlOHtSB60D4PdSZSFt6%2bWW2RtYFDTHTe7zw%3d%3d)  
+**最新版本**：134.0.3108.0  
+**文件大小**：170.91 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3108.0.exe  
+**校验值（Sha256）**：1f824bf8cdbcfebabeb3e9d27bedf047318005191b4612589eec6516d12aa89b  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/77be5d4f-c5f0-4955-b3c4-3aebcc30c1c1?P1=1738897854&P2=404&P3=2&P4=ao2dtTfj8D%2brgQuzKWjy4OQebUbCeg%2fgARJoDr7S4KLIVf2dFVvrpD%2bP5ugH3Wa%2bhIu8YzCkPF8qqfc2A9UGgQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/77be5d4f-c5f0-4955-b3c4-3aebcc30c1c1?P1=1738897854&P2=404&P3=2&P4=ao2dtTfj8D%2brgQuzKWjy4OQebUbCeg%2fgARJoDr7S4KLIVf2dFVvrpD%2bP5ugH3Wa%2bhIu8YzCkPF8qqfc2A9UGgQ%3d%3d)  
 
