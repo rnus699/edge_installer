@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-04-14 08:19:32 (UTC-4)
+2025-04-14 11:11:34 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/11aee52e-fb41-4d63-9dc6-3812d04ce5b1?P1=1745086341&P2=404&P3=2&P4=KGTmKH17cRo2mH38wofpflv3bKhE0oKzW0LTlOeVMbAxUB8NoTkT6B7Z4V6sLrc0cXb64B6gWMbSKnAuImzyPQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/11aee52e-fb41-4d63-9dc6-3812d04ce5b1?P1=1745086341&P2=404&P3=2&P4=KGTmKH17cRo2mH38wofpflv3bKhE0oKzW0LTlOeVMbAxUB8NoTkT6B7Z4V6sLrc0cXb64B6gWMbSKnAuImzyPQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：137.0.3256.0  
-**文件大小**：173.61 MB  
-**文件名**：MicrosoftEdge_ARM64_137.0.3256.0.exe  
-**校验值（Sha256）**：1a7b2872347521704df1883dfe22c4fadf05e186383dc98dc583d620134ce3cc  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c6f7650f-6d7a-44e9-8ada-aaf79179cda4?P1=1745086341&P2=404&P3=2&P4=ajfMhEzncpw8nGq84Ijg7czyBghkNAsSntmiDiQHJMhZd%2b5%2bGnpvaTPnGfCWNzBMgmvSKBJ2Ukdz78pyaW9tFg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c6f7650f-6d7a-44e9-8ada-aaf79179cda4?P1=1745086341&P2=404&P3=2&P4=ajfMhEzncpw8nGq84Ijg7czyBghkNAsSntmiDiQHJMhZd%2b5%2bGnpvaTPnGfCWNzBMgmvSKBJ2Ukdz78pyaW9tFg%3d%3d)  
+**最新版本**：137.0.3260.0  
+**文件大小**：173.62 MB  
+**文件名**：MicrosoftEdge_ARM64_137.0.3260.0.exe  
+**校验值（Sha256）**：74f501f1ba0943a8330ab36f3b671669d5db65172cae42e6cce6f6cb7953e46d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f0eabf1-86c5-460f-a496-70fd242cd7b6?P1=1745248294&P2=404&P3=2&P4=DPdvVlrRpcCVb%2bzrgqdSG%2bcxm6XczWkF17hVQlpBOf9EG38T%2bkNw4G7zn3WQIKkWI%2b82Q1Es9%2frq3NgVKShpnw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f0eabf1-86c5-460f-a496-70fd242cd7b6?P1=1745248294&P2=404&P3=2&P4=DPdvVlrRpcCVb%2bzrgqdSG%2bcxm6XczWkF17hVQlpBOf9EG38T%2bkNw4G7zn3WQIKkWI%2b82Q1Es9%2frq3NgVKShpnw%3d%3d)  
 
