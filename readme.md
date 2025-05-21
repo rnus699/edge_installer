@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-05-21 14:15:03 (UTC-4)
+2025-05-21 17:09:58 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aea60881-46bc-48b1-a495-6954c4493f01?P1=1748456103&P2=404&P3=2&P4=eU9QOArPUAV1AEfWJ0WOrdEk34BFMCqUalukevUn7z3JeHyuhb8NpcxbVSqnu3tuxlNBrWzkUrSaUb2B9Vi5WA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aea60881-46bc-48b1-a495-6954c4493f01?P1=1748456103&P2=404&P3=2&P4=eU9QOArPUAV1AEfWJ0WOrdEk34BFMCqUalukevUn7z3JeHyuhb8NpcxbVSqnu3tuxlNBrWzkUrSaUb2B9Vi5WA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：138.0.3331.0  
-**文件大小**：177.29 MB  
-**文件名**：MicrosoftEdge_ARM64_138.0.3331.0.exe  
-**校验值（Sha256）**：61c748a1daa8c4b2f5e6e3eb0c6f7572e034d040241a80511fd1191d521ba016  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/55e7f934-68e9-4347-a582-bcfbc3271d16?P1=1748380202&P2=404&P3=2&P4=av%2f4dPg7Ki3kGpccBFOAEVzMPHEhXMzQrMtmKlE%2fnPOAr74Nzy7Kpsk9tZDAvcqD4VZVvGG%2bUOromTOkuH5vEA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/55e7f934-68e9-4347-a582-bcfbc3271d16?P1=1748380202&P2=404&P3=2&P4=av%2f4dPg7Ki3kGpccBFOAEVzMPHEhXMzQrMtmKlE%2fnPOAr74Nzy7Kpsk9tZDAvcqD4VZVvGG%2bUOromTOkuH5vEA%3d%3d)  
+**最新版本**：138.0.3333.0  
+**文件大小**：178.5 MB  
+**文件名**：MicrosoftEdge_ARM64_138.0.3333.0.exe  
+**校验值（Sha256）**：22b07f67a7e9b3e5398d5c913132bb6394a983df01b9271dd64f6a69094a6995  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9140ea1a-3710-49a5-82fe-5312b32c0987?P1=1748466598&P2=404&P3=2&P4=ACFGTkXdX63AG7BVrpgxxEqBooKm1udcmKfIPosEDC%2f0%2bPYOLxm01TKuTVoAaruLsVdE%2bQxp3v4oSIANtus7%2fA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9140ea1a-3710-49a5-82fe-5312b32c0987?P1=1748466598&P2=404&P3=2&P4=ACFGTkXdX63AG7BVrpgxxEqBooKm1udcmKfIPosEDC%2f0%2bPYOLxm01TKuTVoAaruLsVdE%2bQxp3v4oSIANtus7%2fA%3d%3d)  
 
