@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-05-23 08:20:03 (UTC-4)
+2025-05-23 11:11:35 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6440cb2-1957-47bd-a3f3-3b1ca9e7165a?P1=1748566400&P2=404&P3=2&P4=hlXEFk7jgXEQAHL4PRVusBK9F1JRhbDrgdgbpbwYT7MwlbjyKkhcmpOTGTl6Yo9Rm17Qv4XGc%2bptxUlJoIXDvg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6440cb2-1957-47bd-a3f3-3b1ca9e7165a?P1=1748566400&P2=404&P3=2&P4=hlXEFk7jgXEQAHL4PRVusBK9F1JRhbDrgdgbpbwYT7MwlbjyKkhcmpOTGTl6Yo9Rm17Qv4XGc%2bptxUlJoIXDvg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：138.0.3336.0  
-**文件大小**：177.39 MB  
-**文件名**：MicrosoftEdge_ARM64_138.0.3336.0.exe  
-**校验值（Sha256）**：458843df6a1b4aa117bf377cf13b1de87d67a394c0edb5062b65ee1be889c29d  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b9b45192-e2b3-44d0-8269-2e8bb010cdea?P1=1748566400&P2=404&P3=2&P4=DFaYY87fk9UL5kQlIclKI%2fbFJPlx63AWD5JYGhrLXPaxOhrLv9sOlz6IXyXYz%2fzf77LAqQnRG90gFKOx5ZLbyA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b9b45192-e2b3-44d0-8269-2e8bb010cdea?P1=1748566400&P2=404&P3=2&P4=DFaYY87fk9UL5kQlIclKI%2fbFJPlx63AWD5JYGhrLXPaxOhrLv9sOlz6IXyXYz%2fzf77LAqQnRG90gFKOx5ZLbyA%3d%3d)  
+**最新版本**：138.0.3337.0  
+**文件大小**：177.48 MB  
+**文件名**：MicrosoftEdge_ARM64_138.0.3337.0.exe  
+**校验值（Sha256）**：d195efea66534e37ca453689f03bf32c8d866e2448194553f3e9552d06602874  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a5b0ed58-7550-48b8-a3ae-ceb4f1df4674?P1=1748617895&P2=404&P3=2&P4=U%2b8CdOQ%2f%2ftb%2b%2f060nKZ7RJUmJDoplXGLipA9yZIfPHEpdzn%2f%2fSqfTELZSmYVB4vQf9qbKOHhjf2H5O7Vm9r3Zg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a5b0ed58-7550-48b8-a3ae-ceb4f1df4674?P1=1748617895&P2=404&P3=2&P4=U%2b8CdOQ%2f%2ftb%2b%2f060nKZ7RJUmJDoplXGLipA9yZIfPHEpdzn%2f%2fSqfTELZSmYVB4vQf9qbKOHhjf2H5O7Vm9r3Zg%3d%3d)  
 
