@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-06-04 17:08:19 (UTC-4)
+2025-06-04 20:54:01 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d0b1ad0-a861-450c-bfa2-c6bbb07b7b6b?P1=1749516914&P2=404&P3=2&P4=izVj4jySInHkA0NVrK0Z4gT4cmuIjG6nVM4TnKAQkGT22v8N0ZH8cF%2fj5zXtaru%2bHEhElpI9QIVay8fdPUWNwQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d0b1ad0-a861-450c-bfa2-c6bbb07b7b6b?P1=1749516914&P2=404&P3=2&P4=izVj4jySInHkA0NVrK0Z4gT4cmuIjG6nVM4TnKAQkGT22v8N0ZH8cF%2fj5zXtaru%2bHEhElpI9QIVay8fdPUWNwQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：139.0.3358.0  
-**文件大小**：177.44 MB  
-**文件名**：MicrosoftEdge_ARM64_139.0.3358.0.exe  
-**校验值（Sha256）**：ef182bb885be9c3ec7d4f5c06cabca1a720800aa2ef32c45a71cfdd35136bc5c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a59ebe2-66bd-4877-b5b6-2db272e21054?P1=1749516915&P2=404&P3=2&P4=nLb2urUrckfwlpgRuIl10QIeqim8C%2byKF%2flbLyKDXt0xlsNiazQ0RdTD6jJHnzj4ZD%2bRewZImL%2bDXDWcdIlTTw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a59ebe2-66bd-4877-b5b6-2db272e21054?P1=1749516915&P2=404&P3=2&P4=nLb2urUrckfwlpgRuIl10QIeqim8C%2byKF%2flbLyKDXt0xlsNiazQ0RdTD6jJHnzj4ZD%2bRewZImL%2bDXDWcdIlTTw%3d%3d)  
+**最新版本**：139.0.3362.0  
+**文件大小**：177.14 MB  
+**文件名**：MicrosoftEdge_ARM64_139.0.3362.0.exe  
+**校验值（Sha256）**：d16b8c0af4bc039c9932c948cf04b8bcc6d7b9ca54fa07cd07b93f3eaa8c48a3  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eb2d7a0b-ea5c-4edc-a39e-fc4630163814?P1=1749689642&P2=404&P3=2&P4=XgliFJFcutLrOwnYfBL1o99D71DwydF42v2OximcobCu%2bbbvALWW65EQYNgs11aTOX3rxS7acFS5rGeakRaLYw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eb2d7a0b-ea5c-4edc-a39e-fc4630163814?P1=1749689642&P2=404&P3=2&P4=XgliFJFcutLrOwnYfBL1o99D71DwydF42v2OximcobCu%2bbbvALWW65EQYNgs11aTOX3rxS7acFS5rGeakRaLYw%3d%3d)  
 
