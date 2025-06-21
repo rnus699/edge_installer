@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-06-20 20:53:46 (UTC-4)
+2025-06-20 23:39:43 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a67c72e7-af29-427d-b834-49acc6a8008a?P1=1751072026&P2=404&P3=2&P4=mi6mNAyCYFdKsG8hqbdL6kRwgF%2bw0FnEi43QyGrwxIRXGq3BmweoIewWJSwcLlB6IvlhHBgXzPN1vQuRRl2ioQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a67c72e7-af29-427d-b834-49acc6a8008a?P1=1751072026&P2=404&P3=2&P4=mi6mNAyCYFdKsG8hqbdL6kRwgF%2bw0FnEi43QyGrwxIRXGq3BmweoIewWJSwcLlB6IvlhHBgXzPN1vQuRRl2ioQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：139.0.3393.0  
-**文件大小**：179.48 MB  
-**文件名**：MicrosoftEdge_ARM64_139.0.3393.0.exe  
-**校验值（Sha256）**：09a8fe61b0795cfe2d96f5e751b5fcc1ed9748043bfc24cb11b1a8a0a8d34f86  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba2eed8b-5ad6-4ba9-8e01-1cd59c79e375?P1=1751058578&P2=404&P3=2&P4=SfQKErCaedgcH6FLNbO5h%2bjWJCCgs8FscOL%2fHPTI%2f5c6y2uP0jG3ebuXA2BN2ulJpHGhK3qQvRiTVNur5tfjdQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba2eed8b-5ad6-4ba9-8e01-1cd59c79e375?P1=1751058578&P2=404&P3=2&P4=SfQKErCaedgcH6FLNbO5h%2bjWJCCgs8FscOL%2fHPTI%2f5c6y2uP0jG3ebuXA2BN2ulJpHGhK3qQvRiTVNur5tfjdQ%3d%3d)  
+**最新版本**：139.0.3394.0  
+**文件大小**：179.45 MB  
+**文件名**：MicrosoftEdge_ARM64_139.0.3394.0.exe  
+**校验值（Sha256）**：9ba9f9377c382e457cf6eb2976db7c8f6659fa09ef321aac540c65de2dcc9a5c  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1823e36c-e7a0-407a-9b05-8b67cb59ea57?P1=1751081983&P2=404&P3=2&P4=XoRP0J%2fRztoIdZx0QGLZYwdjzZkO712%2fHSoD2XCmu3E%2bcg5wP4H0686CBJk0KGS1pDNl7xW27hauMfwQdHA9sg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1823e36c-e7a0-407a-9b05-8b67cb59ea57?P1=1751081983&P2=404&P3=2&P4=XoRP0J%2fRztoIdZx0QGLZYwdjzZkO712%2fHSoD2XCmu3E%2bcg5wP4H0686CBJk0KGS1pDNl7xW27hauMfwQdHA9sg%3d%3d)  
 
