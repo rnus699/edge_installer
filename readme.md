@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-09-23 14:15:35 (UTC-4)
+2025-09-23 17:08:47 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -89,11 +89,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/411b3eca-bc5a-4b69-8bae-10e83bedd63c?P1=1759256133&P2=404&P3=2&P4=mYS%2fCfO7CubAzsKFv69kNqGpGeRTtVKHceLHxzcTs3sZOBG%2b3gXt1zgR5sg16WfVFuk00QuYFb7S4xeqngbfzQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/411b3eca-bc5a-4b69-8bae-10e83bedd63c?P1=1759256133&P2=404&P3=2&P4=mYS%2fCfO7CubAzsKFv69kNqGpGeRTtVKHceLHxzcTs3sZOBG%2b3gXt1zgR5sg16WfVFuk00QuYFb7S4xeqngbfzQ%3d%3d)  
 
 ## dev x86
-**最新版本**：142.0.3558.0  
-**文件大小**：157.63 MB  
-**文件名**：MicrosoftEdge_X86_142.0.3558.0.exe  
-**校验值（Sha256）**：da67e0dce8db51c0ae0e82a0f18af265b2eaf7b12b507019b80dc4b8f71de88a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2625c109-2eb2-4c06-8402-ad5927796021?P1=1759007265&P2=404&P3=2&P4=IHP6Lq2UjQygal0bwYodBhHJCLP892cAO%2biUZkXRkesEbvsnkzQULBmU%2f9YJLo9aPEBJ6rS8VXPLuKwXkvXzag%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2625c109-2eb2-4c06-8402-ad5927796021?P1=1759007265&P2=404&P3=2&P4=IHP6Lq2UjQygal0bwYodBhHJCLP892cAO%2biUZkXRkesEbvsnkzQULBmU%2f9YJLo9aPEBJ6rS8VXPLuKwXkvXzag%3d%3d)  
+**最新版本**：142.0.3568.0  
+**文件大小**：156.44 MB  
+**文件名**：MicrosoftEdge_X86_142.0.3568.0.exe  
+**校验值（Sha256）**：d8b0df85ff0fde1ca8bb2679bb5d81d5aee968a7fe687db52d63791fd0f68af5  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c3e1be61-0dce-49ce-a67b-6533c4462cd1?P1=1759266525&P2=404&P3=2&P4=iLWna6zDToO%2fTsrHzRqO8ysk2Xg3bWKnEk20S36wUb9I5wpZudEJjnZfZs8hKjc6%2bvuDHEVV7bM%2bR81rrLiZoQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c3e1be61-0dce-49ce-a67b-6533c4462cd1?P1=1759266525&P2=404&P3=2&P4=iLWna6zDToO%2fTsrHzRqO8ysk2Xg3bWKnEk20S36wUb9I5wpZudEJjnZfZs8hKjc6%2bvuDHEVV7bM%2bR81rrLiZoQ%3d%3d)  
 
 ## dev x64
 **最新版本**：142.0.3568.0  
