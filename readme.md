@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-09-26 17:08:39 (UTC-4)
+2025-09-26 20:47:14 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3dec1da9-f6e2-4015-bbac-2b90c23c2ee4?P1=1759452544&P2=404&P3=2&P4=m8orCtxcUfJL4%2bAudrYJ%2bBPnPXvhMtcD6cQXB6EKk2MoVVDGFK6oWmZ8NY0NBmoep21gvSr%2bRZSE26P8397uFw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3dec1da9-f6e2-4015-bbac-2b90c23c2ee4?P1=1759452544&P2=404&P3=2&P4=m8orCtxcUfJL4%2bAudrYJ%2bBPnPXvhMtcD6cQXB6EKk2MoVVDGFK6oWmZ8NY0NBmoep21gvSr%2bRZSE26P8397uFw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：142.0.3580.0  
-**文件大小**：181.1 MB  
-**文件名**：MicrosoftEdge_ARM64_142.0.3580.0.exe  
-**校验值（Sha256）**：9e101c971f892b80d1372501353182527034e9e2317d80ae1af103701a87e20c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c0054cc7-f8b1-4df5-93b6-1d3521fc15b3?P1=1759452544&P2=404&P3=2&P4=kRK5kNfcfo4BDxENaZPzPDksKzsL9tXou5igmbRTkuu2PVlR5r1suPPGDHwyVUp4yV%2fvsiB4WLC376dPoU4NnA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c0054cc7-f8b1-4df5-93b6-1d3521fc15b3?P1=1759452544&P2=404&P3=2&P4=kRK5kNfcfo4BDxENaZPzPDksKzsL9tXou5igmbRTkuu2PVlR5r1suPPGDHwyVUp4yV%2fvsiB4WLC376dPoU4NnA%3d%3d)  
+**最新版本**：142.0.3582.0  
+**文件大小**：181.17 MB  
+**文件名**：MicrosoftEdge_ARM64_142.0.3582.0.exe  
+**校验值（Sha256）**：e44290bc64e6004f77929609d6661c8d079e9236f64c36965429cc3875d760ac  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e050c19-611b-4a60-9759-f0553fb74538?P1=1759538834&P2=404&P3=2&P4=T4FhtaEuwylF7l5EYzzpH3wyTA%2bAsZDRVMUpZ%2f9mvl64r0FqY8ZoLwi4zimVL1aOjQxdMl1if3zSgeHQhk%2fITA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e050c19-611b-4a60-9759-f0553fb74538?P1=1759538834&P2=404&P3=2&P4=T4FhtaEuwylF7l5EYzzpH3wyTA%2bAsZDRVMUpZ%2f9mvl64r0FqY8ZoLwi4zimVL1aOjQxdMl1if3zSgeHQhk%2fITA%3d%3d)  
 
