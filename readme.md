@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-10-31 23:37:57 (UTC-4)
+2025-11-01 02:14:34 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f519946-238a-438f-bb66-6ba9bff3b3c2?P1=1762573076&P2=404&P3=2&P4=RGzg4YDHtJRwkOVmEIRUX1fb7tk1XSxJAVdwsjNeWqDhs0U1Nh6BHwbvAKv2ADzFahNH%2bJWLsWlHMOZBTHrxJw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f519946-238a-438f-bb66-6ba9bff3b3c2?P1=1762573076&P2=404&P3=2&P4=RGzg4YDHtJRwkOVmEIRUX1fb7tk1XSxJAVdwsjNeWqDhs0U1Nh6BHwbvAKv2ADzFahNH%2bJWLsWlHMOZBTHrxJw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：143.0.3649.0  
-**文件大小**：182.88 MB  
-**文件名**：MicrosoftEdge_ARM64_143.0.3649.0.exe  
-**校验值（Sha256）**：7428f2334ac7e31d451679c5967970708c3a815ae69ca5afc7834784de4bb4cc  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e5d0547-3202-41ed-885c-f8667eac20c2?P1=1762463418&P2=404&P3=2&P4=V0bu16N7vt8jzSl94WhnmuDmJeD2MmIj5l6NXu4D%2bUtwm%2bQRnmDELmN8OeWkj5I5jdM91Gx9fljhxWTdbYd1mg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e5d0547-3202-41ed-885c-f8667eac20c2?P1=1762463418&P2=404&P3=2&P4=V0bu16N7vt8jzSl94WhnmuDmJeD2MmIj5l6NXu4D%2bUtwm%2bQRnmDELmN8OeWkj5I5jdM91Gx9fljhxWTdbYd1mg%3d%3d)  
+**最新版本**：143.0.3650.0  
+**文件大小**：184.93 MB  
+**文件名**：MicrosoftEdge_ARM64_143.0.3650.0.exe  
+**校验值（Sha256）**：34ab14fd94a3b58772fe117065941a8e2cf521d8d6f533f7a48aa976caa5af41  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3ac8b25f-e69a-4e6d-aa86-18818a949208?P1=1762582475&P2=404&P3=2&P4=c%2fgfHkM224nDwdbx6pM4ASShURiLPNnEeXd5wpZTl0bP12QZNfnVY1%2ftAdBmmVbDg0FhjXBAzBmT8mq9Rt%2foVw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3ac8b25f-e69a-4e6d-aa86-18818a949208?P1=1762582475&P2=404&P3=2&P4=c%2fgfHkM224nDwdbx6pM4ASShURiLPNnEeXd5wpZTl0bP12QZNfnVY1%2ftAdBmmVbDg0FhjXBAzBmT8mq9Rt%2foVw%3d%3d)  
 
