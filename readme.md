@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-11-17 14:15:49 (UTC-4)
+2025-11-17 17:10:13 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6ddc4474-edb0-4196-ba71-9cd40967787f?P1=1764008149&P2=404&P3=2&P4=fxejtEfFFK0Md%2bQz7Qj4hqi7vZ5URCqG7y1hWAg%2fOJMAA91w7ARI9KGB9F25JIsvfMnCbK8BVHO2xWRIh6AERw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6ddc4474-edb0-4196-ba71-9cd40967787f?P1=1764008149&P2=404&P3=2&P4=fxejtEfFFK0Md%2bQz7Qj4hqi7vZ5URCqG7y1hWAg%2fOJMAA91w7ARI9KGB9F25JIsvfMnCbK8BVHO2xWRIh6AERw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：144.0.3678.0  
-**文件大小**：183.06 MB  
-**文件名**：MicrosoftEdge_ARM64_144.0.3678.0.exe  
-**校验值（Sha256）**：32dca78b20932122af92b8e6f409b84f5ee808190e46c8af0c053aeec9dafff0  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ea8c6b64-0e60-4ec7-82a2-5c2589f95ba1?P1=1763772754&P2=404&P3=2&P4=njTou2LR84JgIjiaD08Q04vKIvmW1T7F1XbDKUPzxSfz1NZ4ACiBgPkPhwjY%2fsq%2bp2oaHuAZZ1gRJft7mUZJJQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ea8c6b64-0e60-4ec7-82a2-5c2589f95ba1?P1=1763772754&P2=404&P3=2&P4=njTou2LR84JgIjiaD08Q04vKIvmW1T7F1XbDKUPzxSfz1NZ4ACiBgPkPhwjY%2fsq%2bp2oaHuAZZ1gRJft7mUZJJQ%3d%3d)  
+**最新版本**：144.0.3683.0  
+**文件大小**：180.05 MB  
+**文件名**：MicrosoftEdge_ARM64_144.0.3683.0.exe  
+**校验值（Sha256）**：1963fd7e609ee72103e95df66ed2fd072ac582db63efc937b3234fdec4615871  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/880797fb-31f1-4ffa-b40e-078c94d78502?P1=1764018613&P2=404&P3=2&P4=F3Ij9LlAZDZ%2fpxk7NBHjpu7WwhJ2guz5ksMCtGPOkBvKGJvXLy59BndWWnBwW9yJGMv22IZ7DoQ2TG3SB56DvA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/880797fb-31f1-4ffa-b40e-078c94d78502?P1=1764018613&P2=404&P3=2&P4=F3Ij9LlAZDZ%2fpxk7NBHjpu7WwhJ2guz5ksMCtGPOkBvKGJvXLy59BndWWnBwW9yJGMv22IZ7DoQ2TG3SB56DvA%3d%3d)  
 
