@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2025-12-16 08:24:40 (UTC-4)
+2025-12-16 11:14:19 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/70c03b95-b315-4f54-8b4d-13aef37b52bc?P1=1766470764&P2=404&P3=2&P4=JwnYoA7%2f6WPXs3p4hw98KrHSJOKvvpWCuhMq6D5CncN3phu8n3PnNj5zuTF3dFcP2L684VSf35I8VYFmZqXm1A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/70c03b95-b315-4f54-8b4d-13aef37b52bc?P1=1766470764&P2=404&P3=2&P4=JwnYoA7%2f6WPXs3p4hw98KrHSJOKvvpWCuhMq6D5CncN3phu8n3PnNj5zuTF3dFcP2L684VSf35I8VYFmZqXm1A%3d%3d)  
 
 ## canary ARM64
-**最新版本**：145.0.3740.0  
-**文件大小**：183.59 MB  
-**文件名**：MicrosoftEdge_ARM64_145.0.3740.0.exe  
-**校验值（Sha256）**：a4812b1cbdf2a3fa689a6bfab63ede1365a6cf2651602f50296caa4f1c6dab80  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed33ad91-e39b-4d8f-a0d3-f4320ac1e434?P1=1766470765&P2=404&P3=2&P4=XhVqz5g%2bxT%2b34K4PZoRyfbzs9ll2glQj4cAlXTPdlJNW6iw6eQIG4TJ5wbrQ5fGgrNb5y5Hk6p0wY0tCbd47hQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed33ad91-e39b-4d8f-a0d3-f4320ac1e434?P1=1766470765&P2=404&P3=2&P4=XhVqz5g%2bxT%2b34K4PZoRyfbzs9ll2glQj4cAlXTPdlJNW6iw6eQIG4TJ5wbrQ5fGgrNb5y5Hk6p0wY0tCbd47hQ%3d%3d)  
+**最新版本**：145.0.3741.0  
+**文件大小**：183.58 MB  
+**文件名**：MicrosoftEdge_ARM64_145.0.3741.0.exe  
+**校验值（Sha256）**：ce1256da53c1ed86743c8bdee00dbd34b5b1dfc8c1a94f273ae9427a9b76594b  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d588076c-da9e-4331-ae6d-f30f38375e5b?P1=1766502859&P2=404&P3=2&P4=gnXvf9Icc9Xq789L0cDzsVcUnsjY%2bQH0JQjxYG1vQ4zNIIIQoCmveL0WRXpzKHHnWLPE0jGdhLQREXXzmvlASg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d588076c-da9e-4331-ae6d-f30f38375e5b?P1=1766502859&P2=404&P3=2&P4=gnXvf9Icc9Xq789L0cDzsVcUnsjY%2bQH0JQjxYG1vQ4zNIIIQoCmveL0WRXpzKHHnWLPE0jGdhLQREXXzmvlASg%3d%3d)  
 
