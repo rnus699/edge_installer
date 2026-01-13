@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-01-12 17:12:07 (UTC-4)
+2026-01-12 20:54:45 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bf9a320f-28cd-4656-906c-bba67ccf7aef?P1=1768835758&P2=404&P3=2&P4=mX8G9d9VUK0MIduHvXd3CJ4xUKxZhNNVcQv5E%2f6egePyK6bpnQAkLal9pLC3OlNSgSO36eHuqU0dCCeHFVO2cA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bf9a320f-28cd-4656-906c-bba67ccf7aef?P1=1768835758&P2=404&P3=2&P4=mX8G9d9VUK0MIduHvXd3CJ4xUKxZhNNVcQv5E%2f6egePyK6bpnQAkLal9pLC3OlNSgSO36eHuqU0dCCeHFVO2cA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：145.0.3794.0  
-**文件大小**：185.24 MB  
-**文件名**：MicrosoftEdge_ARM64_145.0.3794.0.exe  
-**校验值（Sha256）**：ec9e038d1d3e7f32d766585135bd572a7ae284a1c03ea0248e946543cf5a4935  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cc737b39-68d9-42de-bcba-b9ae759eaef2?P1=1768835758&P2=404&P3=2&P4=iy7oLnNE2VVdNBUKliQ8nqyEk3NYNuiRR2ZfNB9%2fP3Eq%2bGHeJ4%2fa6rD10pyMPiMbsh7XDNGmo1NuABGcF4wliw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cc737b39-68d9-42de-bcba-b9ae759eaef2?P1=1768835758&P2=404&P3=2&P4=iy7oLnNE2VVdNBUKliQ8nqyEk3NYNuiRR2ZfNB9%2fP3Eq%2bGHeJ4%2fa6rD10pyMPiMbsh7XDNGmo1NuABGcF4wliw%3d%3d)  
+**最新版本**：145.0.3796.0  
+**文件大小**：185.23 MB  
+**文件名**：MicrosoftEdge_ARM64_145.0.3796.0.exe  
+**校验值（Sha256）**：ce53963c5646253afa1d929a95aa85f906f68d35e7b416db4c90155ee047d6f7  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ae96da1f-b09d-4ec3-ab15-a6a5a4f276ea?P1=1768870485&P2=404&P3=2&P4=MApf5O35T3VlqzKxf83jWnDqmCY1zyErJZupyoKNuohOYqQFCijAjX2coVtBlLD%2fEM6c4j%2f1c9fE%2bmza6w6vgA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ae96da1f-b09d-4ec3-ab15-a6a5a4f276ea?P1=1768870485&P2=404&P3=2&P4=MApf5O35T3VlqzKxf83jWnDqmCY1zyErJZupyoKNuohOYqQFCijAjX2coVtBlLD%2fEM6c4j%2f1c9fE%2bmza6w6vgA%3d%3d)  
 
