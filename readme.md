@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-03-26 14:51:21 (UTC-4)
+2026-03-26 17:22:15 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -54,11 +54,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bf0aa521-1010-436e-82a0-8cda3ec5fa72?P1=1775155877&P2=404&P3=2&P4=N7O7Ek%2fF2QqE%2fOhqExXl%2fk26ewuGcdLhvAsIjv7%2b6AR3681YFdIcZ00jD%2fYkvuTIlv097lzyypGFIrUzakQTrQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bf0aa521-1010-436e-82a0-8cda3ec5fa72?P1=1775155877&P2=404&P3=2&P4=N7O7Ek%2fF2QqE%2fOhqExXl%2fk26ewuGcdLhvAsIjv7%2b6AR3681YFdIcZ00jD%2fYkvuTIlv097lzyypGFIrUzakQTrQ%3d%3d)  
 
 ## stable x64
-**最新版本**：146.0.3856.78  
-**文件大小**：187.15 MB  
-**文件名**：MicrosoftEdge_X64_146.0.3856.78.exe  
-**校验值（Sha256）**：2c1284386dc66bd2eaeea5c1ad0b1e3540b2e588b89929e9552d78d4db4993fe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/423ae85f-65ea-4c16-871b-f5b4b5059378?P1=1774905985&P2=404&P3=2&P4=Dx1YqFtOdzF1t8mp82Nyvn2byXkCTgYOcJqJYD2XkGQ3HnOzMwiFSuFWqzxn2mvAy4FDeCdRyxQh8WTaD6B1wQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/423ae85f-65ea-4c16-871b-f5b4b5059378?P1=1774905985&P2=404&P3=2&P4=Dx1YqFtOdzF1t8mp82Nyvn2byXkCTgYOcJqJYD2XkGQ3HnOzMwiFSuFWqzxn2mvAy4FDeCdRyxQh8WTaD6B1wQ%3d%3d)  
+**最新版本**：146.0.3856.84  
+**文件大小**：187.22 MB  
+**文件名**：MicrosoftEdge_X64_146.0.3856.84.exe  
+**校验值（Sha256）**：4d496f7ace63abf21693ba21c4edeb22739ca9a07cafbc37b7a14bb61463b6fe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d22d5e2-f4cd-45c6-b003-17b9252bd268?P1=1775164926&P2=404&P3=2&P4=njtBmi32eltpnvwmeWgOxfDvL3Q5VIEy9TEhH%2beS9sq0uUw73g8%2fCyFml03re5diyNbs4%2fQPCKwdTxMouIPCuA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d22d5e2-f4cd-45c6-b003-17b9252bd268?P1=1775164926&P2=404&P3=2&P4=njtBmi32eltpnvwmeWgOxfDvL3Q5VIEy9TEhH%2beS9sq0uUw73g8%2fCyFml03re5diyNbs4%2fQPCKwdTxMouIPCuA%3d%3d)  
 
 ## stable ARM64
 **最新版本**：146.0.3856.84  
