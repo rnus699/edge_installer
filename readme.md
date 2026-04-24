@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-04-23 21:29:57 (UTC-4)
+2026-04-24 01:26:32 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f0c26599-506c-40c4-8c21-0aaae252aea9?P1=1777598995&P2=404&P3=2&P4=fqqa1KvHnvvIOZePvRJjZqRUtZLIlr83TlSCohZibKVmPXESdU47Xua0ZY9kgztXY72W16ch4M6v6BSW77LKCg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f0c26599-506c-40c4-8c21-0aaae252aea9?P1=1777598995&P2=404&P3=2&P4=fqqa1KvHnvvIOZePvRJjZqRUtZLIlr83TlSCohZibKVmPXESdU47Xua0ZY9kgztXY72W16ch4M6v6BSW77LKCg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：149.0.3994.0  
-**文件大小**：189.17 MB  
-**文件名**：MicrosoftEdge_ARM64_149.0.3994.0.exe  
-**校验值（Sha256）**：a3e5d5c3f49d42d44faf9395ad717a2dfe0920bbfb601eee5621bd62576f4d69  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/73be093a-e52b-460a-9812-232a0e645b2a?P1=1777575274&P2=404&P3=2&P4=YGCXYsw%2fl0HNrXOcCWqOv9Nbi245sxmF3a0ZORqtHXGBt010HzGl%2f0hWnHqvk4%2bky%2b3CoSokKFoZzYivP%2bTCzg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/73be093a-e52b-460a-9812-232a0e645b2a?P1=1777575274&P2=404&P3=2&P4=YGCXYsw%2fl0HNrXOcCWqOv9Nbi245sxmF3a0ZORqtHXGBt010HzGl%2f0hWnHqvk4%2bky%2b3CoSokKFoZzYivP%2bTCzg%3d%3d)  
+**最新版本**：149.0.3995.0  
+**文件大小**：189.14 MB  
+**文件名**：MicrosoftEdge_ARM64_149.0.3995.0.exe  
+**校验值（Sha256）**：3462c67d2c2f78755ff30b62c234e0e11903b8e28f5c48eaad9d0b723998481f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8573164b-5450-4ebf-a148-e0f26e609f88?P1=1777613193&P2=404&P3=2&P4=JM6%2b1Lu2K6kaRAuSgOYa%2bBGEjt0Uh0cC02RFzMcJRmpKOyYOB9Ydt1jpF9Rs6XnIQhfd7UqJbcx74Q1Wvrt8fA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8573164b-5450-4ebf-a148-e0f26e609f88?P1=1777613193&P2=404&P3=2&P4=JM6%2b1Lu2K6kaRAuSgOYa%2bBGEjt0Uh0cC02RFzMcJRmpKOyYOB9Ydt1jpF9Rs6XnIQhfd7UqJbcx74Q1Wvrt8fA%3d%3d)  
 
