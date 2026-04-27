@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-04-27 15:02:47 (UTC-4)
+2026-04-27 17:44:27 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b50d48f-2c97-4347-b44c-20c4d9492583?P1=1777684999&P2=404&P3=2&P4=CnXfff4HZlDT5WjQOsSrst5XptBexzPFgHgx5XHTU3u1x%2bE%2bABrH1HOpVkEqk6yn%2b29GwfK1N0nP9FwrixaV6g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b50d48f-2c97-4347-b44c-20c4d9492583?P1=1777684999&P2=404&P3=2&P4=CnXfff4HZlDT5WjQOsSrst5XptBexzPFgHgx5XHTU3u1x%2bE%2bABrH1HOpVkEqk6yn%2b29GwfK1N0nP9FwrixaV6g%3d%3d)  
 
 ## canary ARM64
-**最新版本**：149.0.3996.0  
-**文件大小**：189.21 MB  
-**文件名**：MicrosoftEdge_ARM64_149.0.3996.0.exe  
-**校验值（Sha256）**：f4bc66e80bd0605395e02ea9cf9f1a9173ffeeb14a2b3b7914ba258dc88724cb  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/94371827-58b6-4957-8072-3aab19e94d73?P1=1777651070&P2=404&P3=2&P4=eD0SPrGqFO%2fYW33wpym%2bfKi8g1V0r3J06tM1dpnWZjVoPvd4bkyVf530FH7CCRCmav31%2fUfzsvHC4XF4uGFflA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/94371827-58b6-4957-8072-3aab19e94d73?P1=1777651070&P2=404&P3=2&P4=eD0SPrGqFO%2fYW33wpym%2bfKi8g1V0r3J06tM1dpnWZjVoPvd4bkyVf530FH7CCRCmav31%2fUfzsvHC4XF4uGFflA%3d%3d)  
+**最新版本**：149.0.3997.0  
+**文件大小**：189.11 MB  
+**文件名**：MicrosoftEdge_ARM64_149.0.3997.0.exe  
+**校验值（Sha256）**：c6a5cf84b625e5653ee1bf1e340292fca216e308444d41f411c7e8801e75e7cb  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b34d4e7e-dd9a-4795-9cc1-5bb55216b82c?P1=1777931068&P2=404&P3=2&P4=LYPnZtcZVlFV6%2fy6F8XO0RXD30ScssuJiY1y38SIRDs%2bZtV6%2f9aV78rzTUNDWw%2fQRsRTWool%2bUsgIuOlKgGxoA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b34d4e7e-dd9a-4795-9cc1-5bb55216b82c?P1=1777931068&P2=404&P3=2&P4=LYPnZtcZVlFV6%2fy6F8XO0RXD30ScssuJiY1y38SIRDs%2bZtV6%2f9aV78rzTUNDWw%2fQRsRTWool%2bUsgIuOlKgGxoA%3d%3d)  
 
