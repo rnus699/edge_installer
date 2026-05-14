@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-05-13 18:03:36 (UTC-4)
+2026-05-13 22:08:37 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a5c9f2fc-c6b3-4614-9155-576522b64dcd?P1=1779314615&P2=404&P3=2&P4=KFVOFlNPR8qpFClRzhVajGi%2fu4Pj%2fg3G1EopOZqiJ4LOZfWB8Ck6eTNr2uM8iP11uVf4p52atKUd6WC%2foj8MTA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a5c9f2fc-c6b3-4614-9155-576522b64dcd?P1=1779314615&P2=404&P3=2&P4=KFVOFlNPR8qpFClRzhVajGi%2fu4Pj%2fg3G1EopOZqiJ4LOZfWB8Ck6eTNr2uM8iP11uVf4p52atKUd6WC%2foj8MTA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：150.0.4032.0  
-**文件大小**：191.93 MB  
-**文件名**：MicrosoftEdge_ARM64_150.0.4032.0.exe  
-**校验值（Sha256）**：d6a742d88994769c39b1520bcfbc5dcf92f35dffd4db7592912a9de63a5dd192  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6a8f3257-fa64-467f-9d77-523940a5ccc8?P1=1779285874&P2=404&P3=2&P4=hOm%2fcSAuND0mbJaFb0qHKDSiG7AYX8LdzdYGta3yb4pjZ8f9uUVT%2f6HrQb5PXugBLtWbZQWZ%2frxg3bKWwJq4Kw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6a8f3257-fa64-467f-9d77-523940a5ccc8?P1=1779285874&P2=404&P3=2&P4=hOm%2fcSAuND0mbJaFb0qHKDSiG7AYX8LdzdYGta3yb4pjZ8f9uUVT%2f6HrQb5PXugBLtWbZQWZ%2frxg3bKWwJq4Kw%3d%3d)  
+**最新版本**：150.0.4033.0  
+**文件大小**：191.86 MB  
+**文件名**：MicrosoftEdge_ARM64_150.0.4033.0.exe  
+**校验值（Sha256）**：fe7de1abdc1c2725ca7b1aa585a1c41c4f13138f661abe32ba088dec55d76614  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a22155af-46fe-49d5-bf2c-153ddfc6d141?P1=1779329317&P2=404&P3=2&P4=D%2fMuN31J6F4VSAmMyhkGXs83WAoiNUzVb6kMapjFnS85LpiqnKGh0kRv6dwFmn5cRQpChs980Mfsg%2bL8DA5%2fIw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a22155af-46fe-49d5-bf2c-153ddfc6d141?P1=1779329317&P2=404&P3=2&P4=D%2fMuN31J6F4VSAmMyhkGXs83WAoiNUzVb6kMapjFnS85LpiqnKGh0kRv6dwFmn5cRQpChs980Mfsg%2bL8DA5%2fIw%3d%3d)  
 
