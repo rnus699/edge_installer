@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-05-29 16:24:45 (UTC-4)
+2026-05-29 18:23:22 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e14a6aa2-a1c9-4753-8083-0f7c6c33a141?P1=1780691085&P2=404&P3=2&P4=M3h4%2f816flBF4A47EHCcXxQ0BqmSDtD6R%2fTB0qdjCV1lM1gb6CgRM9nGuGSzCPUK3iGR%2bpGYB7n4QH2iDn22Ug%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e14a6aa2-a1c9-4753-8083-0f7c6c33a141?P1=1780691085&P2=404&P3=2&P4=M3h4%2f816flBF4A47EHCcXxQ0BqmSDtD6R%2fTB0qdjCV1lM1gb6CgRM9nGuGSzCPUK3iGR%2bpGYB7n4QH2iDn22Ug%3d%3d)  
 
 ## canary ARM64
-**最新版本**：150.0.4063.0  
-**文件大小**：192.96 MB  
-**文件名**：MicrosoftEdge_ARM64_150.0.4063.0.exe  
-**校验值（Sha256）**：bd0e9fd98bf884a02786045228ce070c75d061cc853198ffdde37dd01dc9908b  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/29a9240f-c3e9-4feb-9b52-a51fdfd8a511?P1=1780682337&P2=404&P3=2&P4=RDS12bCE%2fFUR%2fLDOkUYQJ8DpUFELGpuo%2f%2bWajv3p0ycddvut%2bgG9XfbroMwCuNi%2ba78Qah2swK%2f8yh30%2fOBjmA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/29a9240f-c3e9-4feb-9b52-a51fdfd8a511?P1=1780682337&P2=404&P3=2&P4=RDS12bCE%2fFUR%2fLDOkUYQJ8DpUFELGpuo%2f%2bWajv3p0ycddvut%2bgG9XfbroMwCuNi%2ba78Qah2swK%2f8yh30%2fOBjmA%3d%3d)  
+**最新版本**：150.0.4064.0  
+**文件大小**：191.68 MB  
+**文件名**：MicrosoftEdge_ARM64_150.0.4064.0.exe  
+**校验值（Sha256）**：140abd63d127251d3756a892dcd824a1641d8a66f6bb274550438c900af17e57  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bde6e2b6-e43e-49fa-9e08-6e350f9d9903?P1=1780698203&P2=404&P3=2&P4=MOgRLEh4C9JK0K9vVcBqlX%2bTBKq2UnTrH7cn5uSNyEZ8hi7xvajQCW8eBZCNN2SP2HBdnamNZhcciQuSw1BHxQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bde6e2b6-e43e-49fa-9e08-6e350f9d9903?P1=1780698203&P2=404&P3=2&P4=MOgRLEh4C9JK0K9vVcBqlX%2bTBKq2UnTrH7cn5uSNyEZ8hi7xvajQCW8eBZCNN2SP2HBdnamNZhcciQuSw1BHxQ%3d%3d)  
 
