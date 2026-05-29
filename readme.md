@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-05-28 18:25:46 (UTC-4)
+2026-05-28 22:07:13 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a820f619-5a10-4ec4-9f76-90b28c3fcee8?P1=1780611945&P2=404&P3=2&P4=ELfyg5sMzzHfONgKktfWaQ5rP8YnPp8sxQagQiFosBlBLtqAHWkLUc3Hr21yNr8yo%2fE0t04TMuvF5eFgFU2YMQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a820f619-5a10-4ec4-9f76-90b28c3fcee8?P1=1780611945&P2=404&P3=2&P4=ELfyg5sMzzHfONgKktfWaQ5rP8YnPp8sxQagQiFosBlBLtqAHWkLUc3Hr21yNr8yo%2fE0t04TMuvF5eFgFU2YMQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：150.0.4061.0  
-**文件大小**：193 MB  
-**文件名**：MicrosoftEdge_ARM64_150.0.4061.0.exe  
-**校验值（Sha256）**：9f51bfaf08e1405b526a081d7e38536c28d742b169c9db6c80a2dc7d802cb30a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d199e629-c99c-4b62-9f0a-86085d33d45c?P1=1780611946&P2=404&P3=2&P4=IobYr%2bt%2fG4zynvoqhnrCG84xe%2bFcEt0ARNXNaL%2bmkCvJpTzZjg9psd4fdcs0n5nuTPgMILdl4TLA3ubt9upW5Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d199e629-c99c-4b62-9f0a-86085d33d45c?P1=1780611946&P2=404&P3=2&P4=IobYr%2bt%2fG4zynvoqhnrCG84xe%2bFcEt0ARNXNaL%2bmkCvJpTzZjg9psd4fdcs0n5nuTPgMILdl4TLA3ubt9upW5Q%3d%3d)  
+**最新版本**：150.0.4062.0  
+**文件大小**：192.97 MB  
+**文件名**：MicrosoftEdge_ARM64_150.0.4062.0.exe  
+**校验值（Sha256）**：139bd2c97f8c1a02dc7dc3dc777d65fb8230f787ed9dd26147c6f0eca3dc1851  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8fde3d09-5f55-4daf-b144-31d9d600fd7a?P1=1780625234&P2=404&P3=2&P4=A4Hg%2ftzVp8YHinNBpcMJ8Y1W1cbaMQISi7%2bXsvvlZTFJlGa%2br9usCFEwaHk35KjjctX%2f8YN4ieDfnV5ua%2fkYnw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8fde3d09-5f55-4daf-b144-31d9d600fd7a?P1=1780625234&P2=404&P3=2&P4=A4Hg%2ftzVp8YHinNBpcMJ8Y1W1cbaMQISi7%2bXsvvlZTFJlGa%2br9usCFEwaHk35KjjctX%2f8YN4ieDfnV5ua%2fkYnw%3d%3d)  
 
