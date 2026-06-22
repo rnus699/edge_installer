@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-06-22 10:24:16 (UTC-4)
+2026-06-22 14:38:41 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -82,11 +82,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e7e773b9-7987-4802-94c0-e088ca8490f6?P1=1782597531&P2=404&P3=2&P4=g1PUeXnZI30%2f3gOzteJmSuzINY%2fJ6G07Q4SqRy2cVDw%2beQCg2Bc3bnaGvWZ3n4NNrhS%2bJeahVk4qwkeDCrhQMw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e7e773b9-7987-4802-94c0-e088ca8490f6?P1=1782597531&P2=404&P3=2&P4=g1PUeXnZI30%2f3gOzteJmSuzINY%2fJ6G07Q4SqRy2cVDw%2beQCg2Bc3bnaGvWZ3n4NNrhS%2bJeahVk4qwkeDCrhQMw%3d%3d)  
 
 ## beta ARM64
-**最新版本**：150.0.4078.13  
-**文件大小**：207.13 MB  
-**文件名**：MicrosoftEdge_ARM64_150.0.4078.13.exe  
-**校验值（Sha256）**：18c4fb75d6c0cd254e8af5fe751445028908403e444b672a198ce4842980725e  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b58f5082-6b53-4bdd-ae4b-2441abef7f26?P1=1782597531&P2=404&P3=2&P4=WnNQrHrYXLIt8mPjQ247BzYjbo4Ac3E%2fqRzr43B1WjCuU7Q0rrHMfHTZMp1k0TCCioyCBuZRP%2f2edGqdG9p2bw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b58f5082-6b53-4bdd-ae4b-2441abef7f26?P1=1782597531&P2=404&P3=2&P4=WnNQrHrYXLIt8mPjQ247BzYjbo4Ac3E%2fqRzr43B1WjCuU7Q0rrHMfHTZMp1k0TCCioyCBuZRP%2f2edGqdG9p2bw%3d%3d)  
+**最新版本**：150.0.4078.28  
+**文件大小**：206.84 MB  
+**文件名**：MicrosoftEdge_ARM64_150.0.4078.28.exe  
+**校验值（Sha256）**：0c050dcd8f7f3a7d9c33f7b1bdbf9021f536897b44369c53833ebf12ef564012  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f936b292-30f8-42c2-b726-aadbbb62da00?P1=1782758316&P2=404&P3=2&P4=UQ7aMw74cmoslPZISIdBWPhGT%2b6TqvWjPoC%2bX4HjHNK8g7d9Rg4m2zAd1A2Gp79m%2bncd8aiu%2fQ4qBni%2bWziViQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f936b292-30f8-42c2-b726-aadbbb62da00?P1=1782758316&P2=404&P3=2&P4=UQ7aMw74cmoslPZISIdBWPhGT%2b6TqvWjPoC%2bX4HjHNK8g7d9Rg4m2zAd1A2Gp79m%2bncd8aiu%2fQ4qBni%2bWziViQ%3d%3d)  
 
 ## dev x86
 **最新版本**：151.0.4091.0  
