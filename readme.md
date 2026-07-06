@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-07-06 08:35:07 (UTC-4)
+2026-07-06 13:34:02 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/64b7ba83-f578-4a7e-a8a7-ff579f883407?P1=1783946106&P2=404&P3=2&P4=NCKdx8Pm6AM1FHOLgCqkwd78MnUmHcMH%2brdqDsHLFNc7tlLfxtfYI8H5Qj%2bVXBX%2btz6yvul9CYUO96%2bKi%2fBgtA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/64b7ba83-f578-4a7e-a8a7-ff579f883407?P1=1783946106&P2=404&P3=2&P4=NCKdx8Pm6AM1FHOLgCqkwd78MnUmHcMH%2brdqDsHLFNc7tlLfxtfYI8H5Qj%2bVXBX%2btz6yvul9CYUO96%2bKi%2fBgtA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：152.0.4133.0  
+**最新版本**：152.0.4139.0  
 **文件大小**：251.81 MB  
-**文件名**：MicrosoftEdge_ARM64_152.0.4133.0.exe  
-**校验值（Sha256）**：9edf16e57ee13d057cbda60c56ba127c90f8a40d452eef34d21bc7b3b75a31fe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e6c7ec9-c13f-481d-abda-d229ecd103cb?P1=1783690838&P2=404&P3=2&P4=OVxap7VvE%2ftarJsHwKre55aJ6TK8roVMtjqMgF7p4nH%2bZ3NdCGZAl2w%2fW8VToVu8wFVaVfHwK6TL%2b6edvlgz%2fw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e6c7ec9-c13f-481d-abda-d229ecd103cb?P1=1783690838&P2=404&P3=2&P4=OVxap7VvE%2ftarJsHwKre55aJ6TK8roVMtjqMgF7p4nH%2bZ3NdCGZAl2w%2fW8VToVu8wFVaVfHwK6TL%2b6edvlgz%2fw%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_152.0.4139.0.exe  
+**校验值（Sha256）**：7ae1b63074379037f2821de4ff2a46f5365ffad455964a8d1b000e2075f21198  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6785395d-138c-4f84-bd38-c86d77a7ca08?P1=1783964043&P2=404&P3=2&P4=M3htfaRRKX3Od1S%2f2tV%2bgoN%2bczk8nFQ6Q%2fleOlIKJb6zbUflwPOivvYawJZkTQ5qHc73YAETCa97uiVUoFM0zQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6785395d-138c-4f84-bd38-c86d77a7ca08?P1=1783964043&P2=404&P3=2&P4=M3htfaRRKX3Od1S%2f2tV%2bgoN%2bczk8nFQ6Q%2fleOlIKJb6zbUflwPOivvYawJZkTQ5qHc73YAETCa97uiVUoFM0zQ%3d%3d)  
 
