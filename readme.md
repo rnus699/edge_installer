@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-07-23 17:55:46 (UTC-4)
+2026-07-23 21:45:07 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5371f5bd-619b-47e8-afe4-7060192b97a3?P1=1785448545&P2=404&P3=2&P4=Aoac8bExJLadBdX1fQlqyctzpsdJI05dxoKTD6E4YkidjG2ZUdyqqc0fE1WvxP8%2f1SgN%2bscQilhy3htWQaLC8A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5371f5bd-619b-47e8-afe4-7060192b97a3?P1=1785448545&P2=404&P3=2&P4=Aoac8bExJLadBdX1fQlqyctzpsdJI05dxoKTD6E4YkidjG2ZUdyqqc0fE1WvxP8%2f1SgN%2bscQilhy3htWQaLC8A%3d%3d)  
 
 ## canary ARM64
-**最新版本**：152.0.4171.0  
-**文件大小**：237.72 MB  
-**文件名**：MicrosoftEdge_ARM64_152.0.4171.0.exe  
-**校验值（Sha256）**：736579fb3bf9fe47ef3410fcacb8a2bad23a66f6db69d34f11f9378f5010cb9f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8031a71-1bfc-4cb2-9692-0eb15629d0bb?P1=1785362144&P2=404&P3=2&P4=UhqySGk93NqkGOkIopquJca9floTbrkOEMFKzq9obnEN9BPOItvLQniRLkgCswcqSUMq39PC1ztmhZqiMJgknA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8031a71-1bfc-4cb2-9692-0eb15629d0bb?P1=1785362144&P2=404&P3=2&P4=UhqySGk93NqkGOkIopquJca9floTbrkOEMFKzq9obnEN9BPOItvLQniRLkgCswcqSUMq39PC1ztmhZqiMJgknA%3d%3d)  
+**最新版本**：152.0.4174.0  
+**文件大小**：238.26 MB  
+**文件名**：MicrosoftEdge_ARM64_152.0.4174.0.exe  
+**校验值（Sha256）**：e727ff0d86c8ae23628a32b80217ac0c376299f24de4c57d06a1b88843a5b850  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3bd9b5c9-8e99-4703-8f69-e6605e1c9324?P1=1785462307&P2=404&P3=2&P4=l438II3k67t8ZW38bRpRT9mPAqr1iwG1CsQLXpY6EQ3xJY%2bO87pfnfA13JVixr06TinQziE5A%2fg%2b6nZAAf1Csw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3bd9b5c9-8e99-4703-8f69-e6605e1c9324?P1=1785462307&P2=404&P3=2&P4=l438II3k67t8ZW38bRpRT9mPAqr1iwG1CsQLXpY6EQ3xJY%2bO87pfnfA13JVixr06TinQziE5A%2fg%2b6nZAAf1Csw%3d%3d)  
 
