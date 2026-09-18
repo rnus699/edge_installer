@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-09-18 03:43:07 (UTC-4)
+2026-09-18 09:14:36 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fea51dd3-1e7c-4290-8ed7-a8ac5aa07859?P1=1790301994&P2=404&P3=2&P4=jwNfjBX8fJrrEac%2f84126y8mLj2Yh3vja3e1h6hwl6SpCEWTj4FoFvlTgIJKwYde%2bs%2bOMhoQy%2fQaB3uwti4kyQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fea51dd3-1e7c-4290-8ed7-a8ac5aa07859?P1=1790301994&P2=404&P3=2&P4=jwNfjBX8fJrrEac%2f84126y8mLj2Yh3vja3e1h6hwl6SpCEWTj4FoFvlTgIJKwYde%2bs%2bOMhoQy%2fQaB3uwti4kyQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：156.0.4285.0  
-**文件大小**：201.06 MB  
-**文件名**：MicrosoftEdge_ARM64_156.0.4285.0.exe  
-**校验值（Sha256）**：3f33bcc8f693cf50754a98d6f56a6e283b457d52cbc79cf2e741aa48d2094a30  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0fe6447f-3afb-4c6d-89a8-c9e65a0fc25b?P1=1790301995&P2=404&P3=2&P4=PhIykO5JlfKF%2bkW%2foDk4M5Zve8oOGBZMm8SVbCsGu%2frye25TMY%2bRcSsN7dLoivEql0mCC59CA85%2bqLzDQPvu%2fQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0fe6447f-3afb-4c6d-89a8-c9e65a0fc25b?P1=1790301995&P2=404&P3=2&P4=PhIykO5JlfKF%2bkW%2foDk4M5Zve8oOGBZMm8SVbCsGu%2frye25TMY%2bRcSsN7dLoivEql0mCC59CA85%2bqLzDQPvu%2fQ%3d%3d)  
+**最新版本**：156.0.4286.0  
+**文件大小**：201.14 MB  
+**文件名**：MicrosoftEdge_ARM64_156.0.4286.0.exe  
+**校验值（Sha256）**：a203ae7d9f00d3b6836910acf6235f688b6cf2b19f608c6fe77ba6581b369d3e  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/94ae9c40-f50b-49c1-bc78-1d5980319e2c?P1=1790342077&P2=404&P3=2&P4=KgZlfR28Ds70gkFRKfxiNSkDNjaV1C3M%2bNiXtZC3LqLgsLDDUkWBDrM1FC2B008ZsVVPzEMqfwWErLIroHvSVw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/94ae9c40-f50b-49c1-bc78-1d5980319e2c?P1=1790342077&P2=404&P3=2&P4=KgZlfR28Ds70gkFRKfxiNSkDNjaV1C3M%2bNiXtZC3LqLgsLDDUkWBDrM1FC2B008ZsVVPzEMqfwWErLIroHvSVw%3d%3d)  
 
