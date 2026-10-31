@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-10-30 23:11:53 (UTC-4)
+2026-10-31 07:23:50 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
