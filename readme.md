@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnus699/edge_installer/releases>
 
 最后检测更新时间
-2026-11-13 00:00:58 (UTC-4)
+2026-11-13 09:36:47 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a45b1148-859b-4855-b74e-953568a6bdc0?P1=1795147258&P2=404&P3=2&P4=AUbrMPrWYiK4KSWj6dJVA0OyRala1o3Zeo20dauPa1omeZTZ%2fxn7J1njwLPvTDavmAe%2ffXF7F%2bz2aXIU0%2bZ98w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a45b1148-859b-4855-b74e-953568a6bdc0?P1=1795147258&P2=404&P3=2&P4=AUbrMPrWYiK4KSWj6dJVA0OyRala1o3Zeo20dauPa1omeZTZ%2fxn7J1njwLPvTDavmAe%2ffXF7F%2bz2aXIU0%2bZ98w%3d%3d)  
 
 ## canary ARM64
-**最新版本**：159.0.4399.0  
-**文件大小**：263.35 MB  
-**文件名**：MicrosoftEdge_ARM64_159.0.4399.0.exe  
-**校验值（Sha256）**：75cd3272715645bc5f6a49bf2b83893166b1f8a924cc1ebe266992f1958efb82  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aae4bf2d-b351-438f-baad-b31a7eb5903a?P1=1795147258&P2=404&P3=2&P4=GbtO5EBFdgH8xDtQYHPKq2vG1pC2npgcsbch2RWUTxPFDtCqZCH%2fbYbWx9yBEJkf85v1Qzc4d87J1mUkKF6yyw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aae4bf2d-b351-438f-baad-b31a7eb5903a?P1=1795147258&P2=404&P3=2&P4=GbtO5EBFdgH8xDtQYHPKq2vG1pC2npgcsbch2RWUTxPFDtCqZCH%2fbYbWx9yBEJkf85v1Qzc4d87J1mUkKF6yyw%3d%3d)  
+**最新版本**：159.0.4400.0  
+**文件大小**：263.33 MB  
+**文件名**：MicrosoftEdge_ARM64_159.0.4400.0.exe  
+**校验值（Sha256）**：a6c7735547dd3251eba05b64ab3bec320251e0abe87db8f3605fa614e0932b97  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e6500fe-9ab9-4c9d-86f9-481153788196?P1=1795181807&P2=404&P3=2&P4=HRrepHErA4ZQEhJu54HSoflsrY4LL1vqb6ZRDJ%2bmkFnPg66lns5m4SbutJOX1lA8jY9a1a5ZWWv6DLUBOejLJQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e6500fe-9ab9-4c9d-86f9-481153788196?P1=1795181807&P2=404&P3=2&P4=HRrepHErA4ZQEhJu54HSoflsrY4LL1vqb6ZRDJ%2bmkFnPg66lns5m4SbutJOX1lA8jY9a1a5ZWWv6DLUBOejLJQ%3d%3d)  
 
